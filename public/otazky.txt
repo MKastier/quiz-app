@@ -1,0 +1,450 @@
+Délka IP hlavičky musí být násobkem:
+A. 32 bitů *
+B. 16 bitů
+C. 24 bitů
+D. 8 bitů
+Datový tok RTP obvykle spotřebuje: 
+A. 80% z celkového toku pro multimediální data
+B. celou šířku pásma
+C. 95% z celkového toku pro multimediální data *
+D. 90% z celkového toku pro multimediální data
+E. 85% z celkového toku pro multimediální data
+SDP nenajdu v:
+A. SIP odpovédi 2000K
+B. SIP žádosti INVITE
+C. SIP odpovědi 180 Ringing *
+D. SIP žádosti ACK
+Pole CSRC v RTP:
+A. obsahuje počet přispívajích zdrojů v rozšířené hlavičce
+B. identifikuje přispívající zdroj *
+C. identifikuje vysílací zdroje
+D. popisuje přispívající zdroje
+Který z následujících doporučení slouží ke kompresi videa?
+A. H.264 *
+B. RTSP
+C. Q.931
+D. MPEG-7
+E. H.323
+Bitová rychlost řečového kodéru G.711 v kb/s je ?
+A. 32
+B. 64 *
+C. 8
+D. 16
+E. 96
+Odpovědi SIP s cislem 4XX:
+A. znamenají chybu na straně klienta *
+B. znamenají chybu na straně serveru
+C. znamenají přesměrování
+D. znamenají úspěch
+Rozdil časů D(l) dvou po sobě jdoucích paketů přijatých přijímačem a odeslaných vysílačem, kde S(I) je časové razítko RTP paketu a R(I) je čas příchodu RTP paketu můžeme vypočítat vztahem?
+A. D(l) = (RŮ-RFTASUS(-1))
+B. ani jedna není zprávná *
+C. D(I) = (R(I)-R(FT)HS()+S(F1))
+D. D(I) = (R+R(FY-(SI)-S(-1))
+E. D(I) = (R()+R(-1))(S()+S(1-1))
+V SIP zpravé se neprenasi?
+A. informace o možnostech jednotlivých klientů
+B. textové zprávy v případě Instant Messagingu
+C. informace o uživatelích
+D. multimediální data
+MCU u H.323 je:
+A. Multicast Control Unit
+B. Multimedia Control Unit
+C. Multipoint Control Unit *
+D. Multizone Control Unit
+Standardní hlavička protokolu RTP obsahuje?
+A. 12 oktetů *
+B. 24 oktetů
+C. 20 oktetů
+D. 16 oktetů
+RTSP neobsahuje zpravu (metodu) ?
+A. OPTION
+B. SETUP
+C. INVITE *
+D. DESCRIBE
+Která metoda SIP zpráv slouží k přeposlání hovoru k jinému účastnikovi?
+A. REFER *
+B. CANCEL
+C. DESCRIBE
+D. INVITE
+Na kterou adresu se dovolam?
+A. sip_marek@147.223.69.54
+B. sip://152147.223.69.54
+C. sip:/147.223.69.54
+D. sip:152@147.223.69.54 *
+Mezi základní parametry QoS nepatří ?
+A. zpoždění
+B. ztráta paketů
+C. jitter
+D. kvalita hovorové signalizace u VoIP *
+Jakou odpověď posílá klient v případě, že hovor zamitnete?
+A. CANCEL
+B. BYE *
+C. DISCONNECT
+D. ENDCONNECT
+Která z metod je určena k transferu hovorů? 
+A. TRANSFER
+B. TRANSFER NOW
+C. REFER *
+D. RECONNECT
+SIP :
+A. je protokol pro přenosmultimediálních dat
+B. je starší název pro VoIP
+C. je signalizační protokol *
+D. je zkratka pro Strušný Informační Protokol
+TTL (Time to Live) v IP datagramu
+A. stanovuje maximální počet přeskoků v siti *
+B. stanovuje maximálně strávený čas paketu v jednom směrovači (v sekundách)
+C. stanovuje doba výskytu paketu v sekundách
+D. stanovuje minimální počet přeskoků v síti
+Zpráva H.225-RA5 Gatekeeper Reguest :
+A. slouží k řízení přístupu
+B. slouží k nalezení gatekeeperu *
+C. slouží k rozvázání komunce mezi dvěma terminály
+D. slouží k ukončení komunce s gatekeeperem
+Hlavička IP datagramu nenese informaci o ?
+A. zdrojovém a cilovém portu *
+B. cílové adrese
+C. fragmentu
+D. typu sluzby (ToS)
+E. zdrojové adrese
+Jaké zprávy musí být vyměněny pro úspěšné navázání hovoru v SIP?
+A. INVITE, 3000K, ACK
+B. INVITE, 2000K
+C. INVITE, 3000K
+D. INVITE, 180 Ringing, 200 OK
+E. INVITE, 2000K, ACK *
+Protokol H.245 u H.323 :
+A. signalizuje, který z terminálů je zapnutý a který vypnutý
+B. signalizuje schopnosti jednotlivých terminálů *
+C. přenáší multimediální data
+D. stará se o nalezení gatekeeperu v síti
+Pri sestavovani SIP relace:
+A. je jako prvni posilana metoda REGISTER
+B. je jako první posilana metoda START
+C. je jako prvni posilana metoda INVITE *
+D. je jako prvni posilana metoda REFER
+Metoda ACK potvrzuje ?
+A. metodu REFFER
+B. metodu INVITE *
+C. metodu CANCEL
+D. metodu REINVITE
+Pri vysilani na multicastovou adresu :
+A. použiji adresu v rozsahu 192.168.1.0— 255
+B. data budou přijímat pouze stanice, které jsou přihlášeni do multicastové skupiny *
+C. koncové stanice mohou ovládat moje vysílání
+D. určuje vysílací server, komu data pošle
+Socket je?
+A. IP adresa + maska sítě
+B. IP adresa + port *
+C. IP adresa + port + maska sítě
+D. fyzická adresa + port
+E. žádná odpověď není správná 
+RTCP zahrnuje zprávy ?
+A. pouze Receiver Report RR
+B. Receiver Describtion RDES
+C. pouze Source Describtion SDES
+D. Application Specific APP a Receiver Describtion RDES
+E. Sender Report SR a Receiver Report RR *
+H.323 - při komunci terminálů s MCU jednotkou řídí komunci ?
+A. terminál, který inicioval spojení
+B. terminál nebo MCU jednotka v závislosti na vygenerovaném čísle ve zprávě MasterSlaveDetermination
+C. terminál v závislosti na vygenerovaném čísle ve zprávě MasterSlaveDetermination
+D. vždy MCU jednotka *
+Jaký port je standardně využíván zprávami SIP?
+A. 1060
+B. 1080
+C. 5060 *
+D. 5080
+E. 5065 
+Kolik SDP se standardně vymění mezi dvěma uživateli při SIP volání?
+A. 4
+B. 2 *
+C. 3
+D. 1
+Co znamená zkratka DISA?
+A. Digital System Announcement
+B. Digital SAmple
+C. Direct Inward System Access *
+D. Diskrétni Invariabilni Systémový Automat
+U H.323 se jednotlivé zařízení domlouvají o typu použitého kodeku pro komunci?
+A. před vlastním spojením
+B. po prvním vyslaném RTP paketu
+C. po spojeni *
+D. SDP protokolem
+Platna multicastova adresa je?
+A. 221.255.1.1
+B. 147.229.148.48
+C. 239.255.1.1 *
+D. 192.168.1.16
+E. 147.229.148.0
+Hlavička UDP neobsahuje?
+A. dělku paketu
+B. cílový port
+C. zdrojový port
+D. zdrojovou a cílovou adresu *
+E. kontrolní součet
+Jaký protokol se pouziva k prenosu informaci o UA v SIPu?
+A. SMTP
+B. SDP *
+C. SAP
+D. RTSP
+Ve které metodé SIP zprav se posilaji informace o schopnostech VolP telefonů?
+A. DESCRIBE
+B. INVITE *
+C. CANCEL
+D. CONNECT
+Payload type v RTP:
+A. obsahuje sekvenční číslo paketu
+B. má 8 bitů
+C. má 5bitů
+D. obsahuje adresu zařízení, ke kterému má být paket RTP doručen
+E. má 6 bitů
+F. určuje, jaké kódování je pro data, přenášená v paketu, použito *
+Počet oktetů v záhlaví RTP (bez CSRC identifikátorů) je?
+A. 8
+B. 20
+C. 16
+D. 12  *
+Standardni port pro vysilani RTSP zprav je ?
+A. 554 *
+B. 5060
+C. 1720
+D. 8080
+K čemu slouží metoda (zpráva) REGISTER v SIP?
+A. používá se pro dotázání na schopnosti serveru
+B. slouží k zahájení spojení s volajicím
+C. využívá se k registraci klientů na registrar server *
+D. slouží pro odpověď ze strany serveru
+Realtime Transport Protocol (RTP):
+A. pracuje na relační vestvě TCP/IP
+B. pracuje na aplikační vrstvě TCP/IP *
+C. pracuje na síťové vrstvě TCP/IP
+D. pracuje na fyzické vrsté TCP/IP
+K řídicí signalizaci u H.323 neslouží?
+A. H.245
+B. H.450
+C. H.235
+D. H.263 *
+Pro zajištění rekomprese dat vysílaných od více účastníků do jedné konference vytvořené pomocí H323 slouží?
+A. MPU
+B. MCX
+C. MCU *
+D. Gatekeeper
+E. UMC
+F. Brana
+Odpoveédi SIP s cislem 5XX:
+A. znamenají přesměrování
+B. znamenají chybu na straně serveru *
+C. znamenají úspěch
+D. znamenají chybu na straně klienta
+Informace SDP protokolu mohou být přenášeny v SIP Žádosti?
+A. INVITE *
+B. TRYING
+C. BYE
+D. RINGING
+E. CALL PROCEEDING
+SDP se neposila s metodou?
+A. OK
+B. INVITE
+C. ACK
+D. TRYING *
+Standardní hlavička protokolu RTP obsahuje?
+A. 20 oktetů
+B. 16 oktetů
+C. 24 oktetů
+D. 12 oktetů *
+SSRC u RTP identifikuje?
+A. zdroj vysílání multimediálního toku *
+B. pořadí paketů v multimediálním toku
+C. přispívající zdroj vysílání do multimediálního toku o vice účastnících
+D. Gas pro přehrávání multimediálního toku
+Broadcastova adresa:
+A. je 127.0.0.1
+B. data jsou vysílána vybrané skupině uživatelů
+C. umožní posilat pakety vybrané skupině uživatelů
+D. data jsou vysílána všemi směry *
+E. data jsou vysílána k cílové koncové stanici určené IP adresou
+F. je 255.255.255.0
+G. je 192.168.1.0
+Real-time Transport Protocol (RTP):
+A. slouží k přenosu dat informujicich o QoS sité
+B. slouží pro přenos souborů
+C. slouží pro automatickou konfiguraci počítačů připojených do sítě
+D. slouží pro přenos zpráv
+E. slouží k přenosu multimediálních dat *
+Informace SDP protokolu mohou být přenášeny v SIP Žádosti:
+A. BYE
+B. RINGING
+C. TRYING
+D. INVITE *
+E. CALL PROCEEDING
+Sender Report je vysílán protokolem ?
+A. RTCP *
+B. SIP
+C. SAP
+D. RTP
+E. RTSP
+Kolik zpráv SIP proběhne během registrace mezi telefonem a proxy serverem?
+A. 4 zprávy
+B. 1 zpráva
+C. 2 zprávy
+D. 3 zprávy *
+Standardní hlavička protokolu RTP obsahuje?
+A. IP adresu cílové stanice
+B. sekvenční číslo paketu a CSRC identifikátor *
+C. TTL a kontrolní součet hlavičky
+D. IP adresu zdrojové stanice
+K řídicí signalizaci u H.323 neslouží?
+A. H.235
+B. H.245
+C. H.263 *
+D. H.450 
+Socket je ?
+A. fyzická adresa + port
+B. IP adresa + port + maska sítě
+C. IP adresa + port *
+D. žádná odpověď není správná
+E. IP adresa + maska sítě
+Mějme dvoubodovou audiakonferenci dle standardu H.323. Kolik logických kanálů je během sestavení spojení otevřeno?
+A. 1
+B. 2 *
+C. 3 
+D. 4
+E. 0
+Jaké zprávy musí být vyměněny pro úspěšné navázání hovoru v SIP?
+A. INVITE, 2000K, ACK *
+B. INVITE, 3000K 
+C. INVITE, 2000K
+D. INVITE, 180 Ringing, 200 OK
+E. INVITE, 3000K, ACK
+Real Time Streaming Protocol (RTSP):
+A. slouží k označení paketů s malým zpožděním
+B. slouží pro přenos multimediálních dat
+C. slouží k ovládání multimediálního toku (např. pro video na vyžádání) *
+D. slouží ke kontrole zpoždění paketů
+Mezi základní parametry QoS nepatří:
+A. zpoždění
+B. ztráta paketů
+C. kvalita hovorové signalizace VoIP *
+D. jitter
+Popis multimediálních dat m=u SDP má vždy tvar:
+A. m=medium protokol port formát
+B. m=medium port protokol formát *
+C. m=medium formát protokol port
+D. m=medium formát port protokol
+E. ani jedna není zprávná 
+H.323: Ověření schopnosti jednotlivých terminálů Terminal Capability Set proběhne :
+A. ihned po registraci terminálů ke gatekeeperu
+B. po vyjednání spojení a zprávě CONNECT *
+C. ihned po zprávě CALL PROCEEDING
+D. ihned po spojení dvou terminálů
+Sender Report je vysílán protokolem:
+A. RTCP *
+B. SIP
+C. SAP
+D. RTP
+E. RTSP
+Informace SDP protokolu mohou být přenášeny v SIP Žádosti :
+A. BYE
+B. RINGING
+C. TRYING
+D. INVITE *
+E. CALL PROCEEDING
+K řídicí signalizaci u H.323 neslouží:
+A. H.235
+B. H.245
+C. H.263 *
+D. H.450 
+Sender Report je vysílán protokolem:
+A. RTCP *
+B. SIP
+C. SAP
+D. RTP
+E. RTSP
+Kolik zpráv SIP proběhne během registrace mezi telefonem a proxy serverem?
+A. 4 zprávy
+B. 1 zpráva
+C. 2 zprávy
+D. 3 zprávy *
+Standardní hlavička protokolu RTP obsahuje?
+A. IP adresu cílové stanice
+B. sekvenční číslo paketu a CSRC identifikátoru *
+C. TTL a kontrolní součet hlavičky
+D. IP adresu zdrojové stanice
+V jakém formátu je soubor MPD?
+A. HTML (Hypertext Markup Language)
+B. JSON (JavaScript Object Notation)
+C. XML (Extensible Markup Language) *
+D. M3U (MP3 URL - Moving Picture Experts Group Audio Layer 3 Uniform Resource Locator)
+E. YAML (YAML Ain't Markup Language)
+Odpovědi SIP s číslem 2XX:
+A. znamenájí chybu na straně klienta
+B. neznamenají nic
+C. znamenájí chybu na straně serveru
+D. znamenájí kladné potvrzení *
+E. znamenájí pokyn k přesměrování
+F. jsou odpovědmi pouze na žádost INVITE
+Pro zrušení dialogu SIP slouží zpráva (ještě před sestavením spojení):
+A. CANCEL *
+B. GOOD-BYE
+C. BYE
+D. DESTROY
+E. BUY
+SSRC v RTP hlavičce:
+A. je přiřazeno klientovi vzdáleným serverem
+B. identifikuje zdroj vysílání *
+C. identifikuje přispívající zdroj v mixovaném RTP streamu
+D. slouží k časové synchronizaci streamu
+Vyberte správné tvrzení:
+A. Manifest MPEG-DASH je jeden soubor obsahující všechny informace o dostupných profilech *
+B. Manifest HLS je jeden soubor obsahující všechny informace o dostupných profilech
+C. Manifest HLS odkazuje na další soubory obsahující informace o daném profilu
+D. Manifest MPEG-DASH odkazuje na další soubory obsahující informace o daném profilu
+E. Playlist MPEG-DASH je jeden soubor obsahující všechny informace o dostupných profilech
+Který protokol neslouží k signalizaci?
+A. RTP *
+B. H.245
+C. SIP
+D. H.225
+Jakou informaci manifest (MPD) neobsahuje?
+A. časování
+B. zabezpečení
+C. rozlišení
+D. typ média
+E. URL adresu zdroje*
+O směrování se v TCP/IP stará vrstva:
+A. spojová
+B. transportní
+C. síťová *
+D. směrová
+E. žádná z uvedených
+Odpovědi SIP s číslem 3XX:
+A. znamenají chybu na straně serveru
+B. znamenají úspěch
+C. jsou odpovědi pouze na žádost REDIREČCT
+D. znamenají chybu na straně klienta
+E. znamenají přesměrování *
+Payload type v RTP:
+A. určuje, jaké kódování je pro data, přenášená v paketu, použito *
+B. obsahuje adresu zařízení, ke kterému má být paket RTP doručen
+C. má 6 bitů
+D. má 8 bitů
+E. má 5 bitů
+F. obsahuje sekvenční číslo paketu
+SIP protokol je v modelu TCP/IP definován na vrstvě:
+A. Aplikační *
+B. Transportní
+C. Relační
+D. Síťové
+Jaký protokol se používá k přenosu informací o UA v SIPu?
+A. SDP *
+B. SAP
+C. SMTP
+D. RTSP
+Co znamená zkratka MPD?
+A. Multimedia Protocol Description
+B. Media Protocol Description
+C. Media Presentation Demonstration
+D. Media Presentation Description *
+E. Multimedia Presentation Description

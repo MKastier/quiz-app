@@ -1,0 +1,102 @@
+Jaký je hlavní rozdíl mezi multimediálním kontejnerem a kodekem?
+A. Kontejner komprimuje video, kodek pouze ukládá metadata
+B. Kodek obsahuje několik kontejnerů
+C. Mezi nimi není rozdíl
+D. Kontejner zapouzdřuje multimediální stopy, kodek určuje způsob jejich kódování/komprese *
+Převedete MP4 na MKV pomocí -c copy. Co by mělo být při porovnání pomocí ffprobe očekávat?
+A. Kontejner i kodeky budou jiné
+B. Kodeky budou jiné, ale kontejner stejný
+C. Video automaticky změní rozlišení
+D. Kontejner bude jiný, ale kodeky stop by měly zůstat stejné *
+Co zajistí parametr -stream_loop -1?
+A. Video se přehraje jednou
+B. Video se bude opakovat nekonečně *
+C. Vypne audio
+D. Přehraje se pouze poslední snímek
+Co vrací metoda navigator.mediaDevices.getUserMedia() po úspěšném udělení oprávnění?
+A. Objekt MediaStream obsahující požadované mediální stopy *
+B. Pole jednotlivých snímků z webové kamery
+C. Objekt RTCPeerConnection připravený k navázání spojení
+D. Objekt CanvasRenderingContext2D
+Která tvrzení o zpracování videa v této úloze jsou správná? Vyberte všechny správné odpovědi.
+A. drawImage() lze použít k vykreslení aktuálního snímku videa do canvasu. *
+B. putImageData() slouží k navázání WebRTC spojení mezi dvěma klienty.
+C. getImageData() umožňuje přístup k jednotlivým RGBA hodnotám pixelů. *
+D. Face-api může analyzovat obraz z video elementu a vrátit informace o detekovaných obličejích a výrazech. *
+Jakou úlohu má signalizační server při navazování WebRTC spojení?
+A. Zajišťuje výměnu informací potřebných k navázání spojení, například popisu relace a ICE kandidátů *
+B. Převádí video stream do formátu HLS
+C. Nahrazuje objekt RTCPeerConnection v prohlížeči
+D. Přenáší veškeré audio a video mezi klienty po celou dobu hovoru
+Co je streamovací klíč v kontextu protokolu RTMP?
+A. Jde o část URL reprezentující název konkrétního média. Využívá se jeho neveřejnost pro zajištění omezení publikování. *
+B. Jde o text, který se zobrazí ve vysílaném videu.
+C. Jde o šifrovací klíč, kterým se pomocí šifrovacího algoritmu AES šifrují jednotlivé zasílané segmenty.
+K čemu se používá konfigurační direktiva push?
+A. Přesměrování diváků, jejichž rychlost připojení nesplňuje kvalitu streamu na alternativní, méně kvalitní stream.
+B. K zaslání push notifikací na mobilní telefony diváků v momentě, kdy streamer zahájí živé vysílání.
+C. K automatickému přeposílání (přesměrování) příchozího streamu do jiné aplikace v rámci RTMP serveru, na jiný mediální server nebo RTMP adresu (např. YouTube Live). *
+Co přesně znamená, když webový prohlížeč od serveru obdrží HTTP stavový kód 404 Not Found?
+A. Požadovaná stránka nebo soubor na serveru vůbec neexistuje (např. kvůli chybě v URL adrese). *
+B. Server je momentálně přetížený nebo probíhá jeho údržba, takže se k němu nedá připojit.
+C. Webová stránka byla úspěšně nalezena, ale uživatel nemá dostatečná oprávnění (heslo) pro její zobrazení nebo chybí startovací soubor (např. index.html)
+Které tvrzení o SRT je správné?
+A. SRT je určen pouze pro přenos souborů
+B. SRT pracuje nad UDP a umožňuje opakovaný přenos ztracených paketů *
+C. SRT lze použít pouze společně s kodekem H.264
+D. SRT je založen na TCP
+Jakou funkci má enkodér při živém streamování?
+A. Pouze přenáší IP pakety mezi dvěma sítěmi
+B. Získává multimediální data, kóduje je a připravuje je pro přenos *
+C. Převádí UDP na TCP
+D. Pouze zobrazuje přijaté video
+K čemu slouží Studiový mód v OBS?
+A. K současnému zobrazení Náhledu a Programu a přípravě scény před jejím odvysíláním *
+B. K hardwarovému dekódování
+C. K automatickému nahrávání
+D. K nastavení bitrate videa
+K čemu lze v přehrávači Video.js využít metody videoWidth() a videoHeight()?
+A. Ke změně rychlosti síťového připojení
+B. K nastavení přenosové rychlosti jednotlivých HLS variant
+C. Ke zjištění velikosti HLS segmentu v bajtech
+D. Ke zjištění aktuálního rozlišení přehrávaného videa *
+Která tvrzení o šifrování HLS pomocí AES-128 jsou správná? Vyberte všechny správné odpovědi.
+A. Direktiva hls_key_path určuje umístění souborů s klíči na serveru. *
+B. Direktiva hls_key_url určuje URL klíče, která bude uvedena v HLS playlistu. *
+C. Šifrovací klíč musí být uložen přímo ve veřejném adresáři webového serveru.
+D. Tag #EXT-X-KEY obsahuje informace potřebné pro získání klíče a dešifrování segmentů. *
+Jak má autentizační služba reagovat na požadavek na HLS šifrovací klíč, pokud uživatel nemá platnou session?
+A. Automaticky vytvořit uživateli novou session
+B. Vrátit klíč ve formátu JSON
+C. Vrátit 401 Unauthorized a klíč nevydat *
+D. Vrátit klíč, ale požadavek nezapsat do logu
+Co v JavaScriptu znamená, že funkce je označena klíčovým slovem async?
+A. Funkce běží v samostatném vlákně.
+B. Funkce vždy vrací Promise. Výsledek není k dispozici okamžitě. *
+C. Funkce se spustí až po načtení stránky.
+Jaký je rozdíl mezi selektory .menu a #menu?
+A. První vybírá HTML element, druhý atribut.
+B. První vybírá třídu, druhý ID. *
+C. Oba vybírají element podle ID.
+Co vybere CSS selektor div p?
+A. Pouze přímé potomky div.
+B. Všechny elementy p uvnitř div, včetně vnořených potomků. *
+C. Pouze první element p uvnitř div.
+Vytvoření několika kvalitativních variant, například 360p, 480p a 720p, vyžaduje překódování vstupního videa.
+A. Pravda *
+B. Nepravda
+K čemu slouží CORS při přehrávání HLS nebo MPEG-DASH v prohlížeči?
+A. K volbě video kodeku
+B. K řízení bitrate enkodéru
+C. K vytvoření kvalitativních variant
+D. K povolení přístupu k multimediálním zdrojům z jiného originu. *
+Podle čeho klientský přehrávač při adaptivním streamování vybírá vhodnou variantu videa?
+A. Pouze podle rozlišení monitoru
+B. Podle délky názvu streamu
+C. Podle IP adresy multimediálního serveru
+D. Podle dostupné přenosové kapacity a stavu vyrovnávací paměti *
+Které soubory nebo struktury jsou součástí HLS streamu?
+A. Playlisty jednotlivých variant *
+B. Mediální segmenty obsahující video a audio *
+C. SIP signalizační zprávy
+D. Playlist popisující dostupné varianty *

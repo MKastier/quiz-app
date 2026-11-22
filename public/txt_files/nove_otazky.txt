@@ -1,0 +1,178 @@
+Který z následujících doporučení slouží ke kompresi videa?
+A. H.264 *
+B. RTSP
+C. Q.931
+D. MPEG-7
+E. H.323
+SIP :
+A. je protokol pro přenos multimediálních dat
+B. je starší název pro VoIP
+C. je signalizační protokol *
+D. je zkratka pro Stručný Informační Protokol
+Pri vysilani na multicastovou adresu :
+A. použiji adresu v rozsahu 192.168.1.0— 255
+B. data budou přijímat pouze stanice, které jsou přihlášeni do multicastové skupiny *
+C. koncové stanice mohou ovládat moje vysílání
+D. určuje vysílací server, komu data pošle
+Platna multicastova adresa je?
+A. 221.255.1.1
+B. 147.229.148.48
+C. 239.255.1.1 *
+D. 192.168.1.16
+E. 147.229.148.0
+Standardni port pro vysilani RTSP zprav je ?
+A. 554 *
+B. 5060
+C. 1720
+D. 8080
+Real-time Transport Protocol (RTP):
+A. slouží k přenosu dat informujicich o QoS sité
+B. slouží pro přenos souborů
+C. slouží pro automatickou konfiguraci počítačů připojených do sítě
+D. slouží pro přenos zpráv
+E. slouží k přenosu multimediálních dat *
+Real Time Streaming Protocol (RTSP):
+A. slouží k označení paketů s malým zpožděním
+B. slouží pro přenos multimediálních dat
+C. slouží k ovládání multimediálního toku (např. pro video na vyžádání) *
+D. slouží ke kontrole zpoždění paketů
+V jakém formátu je soubor MPD?
+A. HTML (Hypertext Markup Language)
+B. JSON (JavaScript Object Notation)
+C. XML (Extensible Markup Language) *
+D. M3U (MP3 URL - Moving Picture Experts Group Audio Layer 3 Uniform Resource Locator)
+E. YAML (YAML Ain't Markup Language)
+Který protokol neslouží k signalizaci?
+A. RTP *
+B. H.245
+C. SIP
+D. H.225
+Co znamená zkratka MPD?
+A. Multimedia Protocol Description
+B. Media Protocol Description
+C. Media Presentation Demonstration
+D. Media Presentation Description *
+E. Multimedia Presentation Description
+Pro přenos HLS playlistu je využíván protokol?
+A. Využívá proprietární protokol
+B. HTTP/HTTPS *
+C. FTP
+D. NFS
+E. UDP
+Vyberte platná tvrzení (adaptivní stream):
+A. Trvání segmentu je v HLS definováno značkou EXTINF *
+B. CDN se používá pouze při přenosu více streamů různé kvality stejného obsahu
+C. HLS nepřenáší Playlist
+D. HLS je vyvíjen a využíván produkty společnosti Microsoft
+E. MPEG-Dash je používán v digitální televizi DVB-T2
+Adaptivní streamovaní (viac možností)
+A. Přenáší se části videa (chunky), které jsou přehrávány v přehrávači - video se neukládá na lokální disk. *
+B. Umožňuje dynamicky měnit kvalitu videa podle kapacity sítě, procesoru apod. *
+C. Umožňuje zahájit přehrávání dříve, než je stažen celý obsah. *
+D. Pro adaptivní streaming se pužívá MPEG-DASH. *
+E. Obsah je nejprve stažen a uložen na lokálním úložišti, následně je přehrán.
+F. Pro adaptivní streaming se nepoužívá Apple HLS.
+G. Je také označováno jako MPEG-DASH založeno na medzinárodním standardu HTTP. *
+H. Pomocí enkóderu vytváří více verzí daného mědia v různych přenosových rychlostech. *
+I. Používa soubor manifest, který obsahuje informace o všech částech (chuncích) přenosu. *
+J. Využíva vždy RTSP protokol.
+Standard ITU H.263 je standardem pro:
+A. kódování videa *
+B. kódování audia
+C. přenos audiovizuálních dat
+D. přenos audiovizuálních dat v reálném čase
+SDP je:
+A. Textový jazyk pro popis multimediálních spojení *
+B. Signalizační protokol pro řízení přenosu dat protokolem RTP
+C. Protokol poskytující informace o aplikaci týkající se kvality vysílaných dat
+D. Protokol starající se o synchronizaci samostatně vysílaných audio a video toků
+E. Ani jedna z uvedených možností
+Protokol RTP k rekonstrukci správného pořadí paketů používá:
+A. Časová razítka
+B. Typ zátěže
+C. Identifikátor zdroje synchronizace
+D. Sekvenční čísla *
+Co je zpráva v membership report v IGMP?
+A. odhlášení koncové stanice
+B. přihlášení koncové stanice *
+C. změna multicast adresy
+D. potvrzení datového příjmu
+Multicast adresa začíná?
+A. 1110 *
+B. 0001
+C. 1010
+D. 1101
+Jaký je rozdíl mezi selektory .menu a #menu?
+A. První vybírá třídu, druhý ID. *
+B. Oba vybírají element podle ID.
+C. První vybírá HTML element, druhý atribut.
+Co vybere CSS selektor div p?
+A. Pouze přímé potomky div.
+B. Pouze první element p uvnitř div.
+C. Všechny elementy p uvnitř div, včetně vnořených potomků. *
+Vytvoření několika kvalitativních variant, například 360p, 480p a 720p, vyžaduje překódování vstupního videa. (Pravda/Nepravda)
+A. Pravda *
+B. Nepravda
+K čemu slouží CORS při přehrávání HLS nebo MPEG-DASH v prohlížeči?
+A. K volbě video kodeku
+B. K řízení bitrate enkodéru
+C. K vytvoření kvalitativních variant
+D. K povolení přístupu k multimediálním zdrojům z jiného originu. *
+Podle čeho klientský přehrávač při adaptivním streamování vybírá vhodnou variantu videa?
+A. Pouze podle rozlišení monitoru
+B. Podle délky názvu streamu
+C. Podle IP adresy multimediálního serveru
+D. Podle dostupné přenosové kapacity a stavu vyrovnávací paměti *
+Které soubory nebo struktury jsou součástí HLS streamu? (více odpovědí)
+A. Playlisty jednotlivých variant *
+B. Mediální segmenty obsahující video a audio *
+C. SIP signalizační zprávy
+D. Playlist popisující dostupné varianty *
+Které tvrzení o SRT je správné?
+A. SRT je určen pouze pro přenos souborů
+B. SRT je založen na TCP
+C. SRT lze použít pouze společně s kodekem H.264
+D. SRT pracuje nad UDP a umožňuje opakovaný přenos ztracených paketů *
+Jakou funkci má enkodér při živém streamování?
+A. Pouze zobrazuje přijaté video
+B. Získává multimediální data, kóduje je a připravuje je pro přenos *
+C. Pouze přenáší IP pakety mezi dvěma sítěmi
+D. Převádí UDP na TCP
+K čemu slouží Studiový mód v OBS?
+A. K automatickému nahrávání
+B. K nastavení bitrate videa
+C. K hardwarovému dekódování
+D. K současnému zobrazení Náhledu a Programu a přípravě scény před jejím odvysíláním *
+Co je streamovací klíč v kontextu protokolu RTMP?
+A. Jde o část URL reprezentující název konkrétního média. Využívá se jeho neveřejnost pro zajištění omezení publikování. *
+B. Jde o text, který se zobrazí ve vysílaném videu.
+C. Jde o šifrovací klíč, kterým se pomocí algoritmu AES šifrují jednotlivé zasílané segmenty.
+K čemu se používá konfigurační direktiva push?
+A. Přesměrování diváků, jejichž rychlost připojení nesplňuje kvalitu streamu, na alternativní, méně kvalitní stream.
+B. K zaslání push notifikací na mobilní telefony diváků v momentě, kdy streamer zahájí živé vysílání.
+C. K automatickému přeposílání (přesměrování) příchozího streamu do jiné aplikace v rámci RTMP serveru, na jiný mediální server nebo RTMP adresu (např. YouTube Live). *
+K čemu lze v přehrávači Video.js využít metody videoWidth() a videoHeight()?
+A. Ke zjištění aktuálního rozlišení přehrávaného videa *
+B. K nastavení přenosové rychlosti jednotlivých HLS variant
+C. Ke zjištění velikosti HLS segmentu v bajtech
+D. Ke změně rychlosti síťového připojení
+Která tvrzení o šifrování HLS pomocí AES-128 jsou správná? (více odpovědí)
+A. Direktiva hls_key_url určuje URL klíče, která bude uvedena v HLS playlistu. *
+B. Šifrovací klíč musí být uložen přímo ve veřejném adresáři webového serveru.
+C. Tag #EXT-X-KEY obsahuje informace potřebné pro získání klíče a dešifrování segmentů. *
+D. Direktiva hls_key_path určuje umístění souborů s klíči na serveru. *
+Co vrací metoda navigator.mediaDevices.getUserMedia() po úspěšném udělení oprávnění?
+A. Objekt MediaStream obsahující požadované mediální stopy *
+B. Objekt RTCPeerConnection připravený k navázání spojení
+C. Pole jednotlivých snímků z webové kamery
+D. Objekt CanvasRenderingContext2D
+Která tvrzení o zpracování videa v této úloze jsou správná? (více odpovědí)
+A. getImageData() umožňuje přístup k jednotlivým RGBA hodnotám pixelů. *
+B. drawImage() lze použít k vykreslení aktuálního snímku videa do canvasu. *
+C. putImageData() slouží k navázání WebRTC spojení mezi dvěma klienty.
+D. Face-api může analyzovat obraz z video elementu a vrátit informace o detekovaných obličejích a výrazech. *
+Jakou úlohu má signalizační server při navazování WebRTC spojení?
+A. Zajišťuje výměnu informací potřebných k navázání spojení, například popisu relace a ICE kandidátů *
+B. Převádí video stream do formátu HLS
+C. Přenáší veškeré audio a video mezi klienty po celou dobu hovoru
+D. Nahrazuje objekt RTCPeerConnection v prohlížeči

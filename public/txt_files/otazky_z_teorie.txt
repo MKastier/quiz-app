@@ -1,0 +1,1076 @@
+Který z následujících doporučení slouží ke kompresi videa?
+A. H.264 *
+B. RTSP
+C. Q.931
+D. MPEG-7
+E. H.323
+SIP :
+A. je protokol pro přenos multimediálních dat
+B. je starší název pro VoIP
+C. je signalizační protokol *
+D. je zkratka pro Stručný Informační Protokol
+Pri vysilani na multicastovou adresu :
+A. použiji adresu v rozsahu 192.168.1.0— 255
+B. data budou přijímat pouze stanice, které jsou přihlášeni do multicastové skupiny *
+C. koncové stanice mohou ovládat moje vysílání
+D. určuje vysílací server, komu data pošle
+Platna multicastova adresa je?
+A. 221.255.1.1
+B. 147.229.148.48
+C. 239.255.1.1 *
+D. 192.168.1.16
+E. 147.229.148.0
+Standardni port pro vysilani RTSP zprav je ?
+A. 554 *
+B. 5060
+C. 1720
+D. 8080
+Real-time Transport Protocol (RTP):
+A. slouží k přenosu dat informujicich o QoS sité
+B. slouží pro přenos souborů
+C. slouží pro automatickou konfiguraci počítačů připojených do sítě
+D. slouží pro přenos zpráv
+E. slouží k přenosu multimediálních dat *
+Real Time Streaming Protocol (RTSP):
+A. slouží k označení paketů s malým zpožděním
+B. slouží pro přenos multimediálních dat
+C. slouží k ovládání multimediálního toku (např. pro video na vyžádání) *
+D. slouží ke kontrole zpoždění paketů
+V jakém formátu je soubor MPD?
+A. HTML (Hypertext Markup Language)
+B. JSON (JavaScript Object Notation)
+C. XML (Extensible Markup Language) *
+D. M3U (MP3 URL - Moving Picture Experts Group Audio Layer 3 Uniform Resource Locator)
+E. YAML (YAML Ain't Markup Language)
+Který protokol neslouží k signalizaci?
+A. RTP *
+B. H.245
+C. SIP
+D. H.225
+Co znamená zkratka MPD?
+A. Multimedia Protocol Description
+B. Media Protocol Description
+C. Media Presentation Demonstration
+D. Media Presentation Description *
+E. Multimedia Presentation Description
+Pro přenos HLS playlistu je využíván protokol?
+A. Využívá proprietární protokol
+B. HTTP/HTTPS *
+C. FTP
+D. NFS
+E. UDP
+Vyberte platná tvrzení (adaptivní stream):
+A. Trvání segmentu je v HLS definováno značkou EXTINF *
+B. CDN se používá pouze při přenosu více streamů různé kvality stejného obsahu
+C. HLS nepřenáší Playlist
+D. HLS je vyvíjen a využíván produkty společnosti Microsoft
+E. MPEG-Dash je používán v digitální televizi DVB-T2
+Adaptivní streamovaní (viac možností)
+A. Přenáší se části videa (chunky), které jsou přehrávány v přehrávači - video se neukládá na lokální disk. *
+B. Umožňuje dynamicky měnit kvalitu videa podle kapacity sítě, procesoru apod. *
+C. Umožňuje zahájit přehrávání dříve, než je stažen celý obsah. *
+D. Pro adaptivní streaming se pužívá MPEG-DASH. *
+E. Obsah je nejprve stažen a uložen na lokálním úložišti, následně je přehrán.
+F. Pro adaptivní streaming se nepoužívá Apple HLS.
+G. Je také označováno jako MPEG-DASH založeno na medzinárodním standardu HTTP. *
+H. Pomocí enkóderu vytváří více verzí daného mědia v různych přenosových rychlostech. *
+I. Používa soubor manifest, který obsahuje informace o všech částech (chuncích) přenosu. *
+J. Využíva vždy RTSP protokol.
+Standard ITU H.263 je standardem pro:
+A. kódování videa *
+B. kódování audia
+C. přenos audiovizuálních dat
+D. přenos audiovizuálních dat v reálném čase
+SDP je:
+A. Textový jazyk pro popis multimediálních spojení *
+B. Signalizační protokol pro řízení přenosu dat protokolem RTP
+C. Protokol poskytující informace o aplikaci týkající se kvality vysílaných dat
+D. Protokol starající se o synchronizaci samostatně vysílaných audio a video toků
+E. Ani jedna z uvedených možností
+Protokol RTP k rekonstrukci správného pořadí paketů používá:
+A. Časová razítka
+B. Typ zátěže
+C. Identifikátor zdroje synchronizace
+D. Sekvenční čísla *
+Co je zpráva v membership report v IGMP?
+A. odhlášení koncové stanice
+B. přihlášení koncové stanice *
+C. změna multicast adresy
+D. potvrzení datového příjmu
+Multicast adresa začíná?
+A. 1110 *
+B. 0001
+C. 1010
+D. 1101
+Jaký je rozdíl mezi selektory .menu a #menu?
+A. První vybírá třídu, druhý ID. *
+B. Oba vybírají element podle ID.
+C. První vybírá HTML element, druhý atribut.
+Co vybere CSS selektor div p?
+A. Pouze přímé potomky div.
+B. Pouze první element p uvnitř div.
+C. Všechny elementy p uvnitř div, včetně vnořených potomků. *
+Vytvoření několika kvalitativních variant, například 360p, 480p a 720p, vyžaduje překódování vstupního videa. (Pravda/Nepravda)
+A. Pravda *
+B. Nepravda
+K čemu slouží CORS při přehrávání HLS nebo MPEG-DASH v prohlížeči?
+A. K volbě video kodeku
+B. K řízení bitrate enkodéru
+C. K vytvoření kvalitativních variant
+D. K povolení přístupu k multimediálním zdrojům z jiného originu. *
+Podle čeho klientský přehrávač při adaptivním streamování vybírá vhodnou variantu videa?
+A. Pouze podle rozlišení monitoru
+B. Podle délky názvu streamu
+C. Podle IP adresy multimediálního serveru
+D. Podle dostupné přenosové kapacity a stavu vyrovnávací paměti *
+Které soubory nebo struktury jsou součástí HLS streamu? (více odpovědí)
+A. Playlisty jednotlivých variant *
+B. Mediální segmenty obsahující video a audio *
+C. SIP signalizační zprávy
+D. Playlist popisující dostupné varianty *
+Které tvrzení o SRT je správné?
+A. SRT je určen pouze pro přenos souborů
+B. SRT je založen na TCP
+C. SRT lze použít pouze společně s kodekem H.264
+D. SRT pracuje nad UDP a umožňuje opakovaný přenos ztracených paketů *
+Jakou funkci má enkodér při živém streamování?
+A. Pouze zobrazuje přijaté video
+B. Získává multimediální data, kóduje je a připravuje je pro přenos *
+C. Pouze přenáší IP pakety mezi dvěma sítěmi
+D. Převádí UDP na TCP
+K čemu slouží Studiový mód v OBS?
+A. K automatickému nahrávání
+B. K nastavení bitrate videa
+C. K hardwarovému dekódování
+D. K současnému zobrazení Náhledu a Programu a přípravě scény před jejím odvysíláním *
+Co je streamovací klíč v kontextu protokolu RTMP?
+A. Jde o část URL reprezentující název konkrétního média. Využívá se jeho neveřejnost pro zajištění omezení publikování. *
+B. Jde o text, který se zobrazí ve vysílaném videu.
+C. Jde o šifrovací klíč, kterým se pomocí algoritmu AES šifrují jednotlivé zasílané segmenty.
+K čemu se používá konfigurační direktiva push?
+A. Přesměrování diváků, jejichž rychlost připojení nesplňuje kvalitu streamu, na alternativní, méně kvalitní stream.
+B. K zaslání push notifikací na mobilní telefony diváků v momentě, kdy streamer zahájí živé vysílání.
+C. K automatickému přeposílání (přesměrování) příchozího streamu do jiné aplikace v rámci RTMP serveru, na jiný mediální server nebo RTMP adresu (např. YouTube Live). *
+K čemu lze v přehrávači Video.js využít metody videoWidth() a videoHeight()?
+A. Ke zjištění aktuálního rozlišení přehrávaného videa *
+B. K nastavení přenosové rychlosti jednotlivých HLS variant
+C. Ke zjištění velikosti HLS segmentu v bajtech
+D. Ke změně rychlosti síťového připojení
+Která tvrzení o šifrování HLS pomocí AES-128 jsou správná? (více odpovědí)
+A. Direktiva hls_key_url určuje URL klíče, která bude uvedena v HLS playlistu. *
+B. Šifrovací klíč musí být uložen přímo ve veřejném adresáři webového serveru.
+C. Tag #EXT-X-KEY obsahuje informace potřebné pro získání klíče a dešifrování segmentů. *
+D. Direktiva hls_key_path určuje umístění souborů s klíči na serveru. *
+Co vrací metoda navigator.mediaDevices.getUserMedia() po úspěšném udělení oprávnění?
+A. Objekt MediaStream obsahující požadované mediální stopy *
+B. Objekt RTCPeerConnection připravený k navázání spojení
+C. Pole jednotlivých snímků z webové kamery
+D. Objekt CanvasRenderingContext2D
+Která tvrzení o zpracování videa v této úloze jsou správná? (více odpovědí)
+A. getImageData() umožňuje přístup k jednotlivým RGBA hodnotám pixelů. *
+B. drawImage() lze použít k vykreslení aktuálního snímku videa do canvasu. *
+C. putImageData() slouží k navázání WebRTC spojení mezi dvěma klienty.
+D. Face-api může analyzovat obraz z video elementu a vrátit informace o detekovaných obličejích a výrazech. *
+Jakou úlohu má signalizační server při navazování WebRTC spojení?
+A. Zajišťuje výměnu informací potřebných k navázání spojení, například popisu relace a ICE kandidátů *
+B. Převádí video stream do formátu HLS
+C. Přenáší veškeré audio a video mezi klienty po celou dobu hovoru
+D. Nahrazuje objekt RTCPeerConnection v prohlížeči
+Co v JavaScriptu znamená, že funkce je označena klíčovým slovem async?
+A. Funkce běží v samostatném vlákně.
+B. Funkce se spustí až po načtení stránky.
+C. Funkce vždy vrací Promise. Výsledek není k dispozici okamžitě. *
+Co přesně znamená, když webový prohlížeč od serveru obdrží HTTP stavový kód 404 Not Found?
+A. Požadovaná stránka nebo soubor na serveru vůbec neexistuje (např. kvůli chybě v URL adrese). *
+B. Server je momentálně přetížený nebo probíhá jeho údržba, takže se k němu nedá připojit.
+C. Webová stránka byla úspěšně nalezena, ale uživatel nemá dostatečná oprávnění (heslo) pro její zobrazení nebo chybí startovací soubor (např. index.html)
+Jak má autentizační služba reagovat na požadavek na HLS šifrovací klíč, pokud uživatel nemá platnou session?
+A. Vrátit klíč ve formátu JSON
+B. Vrátit 401 Unauthorized a klíč nevydat *
+C. Vrátit klíč, ale požadavek nezapsat do logu
+D. Automaticky vytvořit uživateli novou session
+Jaký je hlavní rozdíl mezi multimediálním kontejnerem a kodekem?
+A. Kontejner komprimuje video, kodek pouze ukládá metadata
+B. Kodek obsahuje několik kontejnerů
+C. Mezi nimi není rozdíl
+D. Kontejner zapouzdřuje multimediální stopy, kodek určuje způsob jejich kódování/komprese *
+Převedete MP4 na MKV pomocí -c copy. Co by mělo být při porovnání pomocí ffprobe očekávat?
+A. Kontejner i kodeky budou jiné
+B. Kodeky budou jiné, ale kontejner stejný
+C. Video automaticky změní rozlišení
+D. Kontejner bude jiný, ale kodeky stop by měly zůstat stejné *
+Co zajistí parametr -stream_loop -1?
+A. Video se přehraje jednou
+B. Video se bude opakovat nekonečně *
+C. Vypne audio
+D. Přehraje se pouze poslední snímek
+Čím se služba VoD (Video on Demand) liší od lineárního vysílání?
+A. Uživatel si volí obsah a individuálně řídí jeho přehrávání (pauza, změna pozice) *
+B. Průběh programu určuje vysílatel
+C. VoD používá vždy multicast
+D. Zdrojem může být pouze kamera
+Který protokol se v laboratorní úloze VoD používá pro ovládání streamu?
+A. SAP
+B. RTSP *
+C. IGMP
+D. SDP
+Co platí o unicastu při vysílání stejného programu více příjemcům?
+A. Zdroj odesílá více kopií toku *
+B. Router sám vytváří kopie pomocí IGMP
+C. Data jdou všem zařízením v broadcastové doméně
+D. Zdroj odesílá jeden tok na skupinovou adresu
+Co umožňuje multicast?
+A. Oslovení všech zařízení v broadcastové doméně
+B. Přenos pouze jednomu konkrétnímu příjemci
+C. Síť předává jeden tok více příjemcům na základě skupinové adresy *
+D. Odeslání jedné kopie každému příjemci zvlášť
+Jaký rozsah používá IPv4 multicast?
+A. 192.168.0.0/16
+B. 127.0.0.0/8
+C. 224.0.0.0/4 *
+D. 10.0.0.0/8
+Používá se IPv4 broadcast pro samotné doručování multimediálních dat?
+A. Ano, ale pouze přes protokol SAP
+B. Ano, je to nejběžnější způsob doručení
+C. Ano, ale pouze pro VoD
+D. Ne, pro doručování multimédií se broadcast nepoužívá *
+Co přenáší protokol RTP a co obsahuje?
+A. Řídí mediální relaci na portu 554
+B. Přenáší média; obsahuje například pořadová čísla a časové značky *
+C. Popisuje parametry relace
+D. Spravuje členství v multicastových skupinách
+Jak je v první části laboratorní úlohy VoD přenášen MPEG-TS?
+A. Uvnitř HTTP nad TCP
+B. Uvnitř SDP nad UDP
+C. Přímo v RTSP zprávách
+D. Uvnitř RTP nad UDP/IP *
+MPEG-TS je:
+A. Kodek pro kompresi videa
+B. Protokol pro řízení relace
+C. Protokol pro oznamování relací
+D. Kontejner, nikoli kodek *
+Co doplňuje protokol RTCP k protokolu RTP?
+A. Samotný přenos video dat
+B. Řídicí informace a zprávy o přenosu *
+C. Popis relace ve formátu SDP
+D. Šifrování multimediálních dat
+Jaký je standardní port RTSP a jaký transport se obvykle používá?
+A. Port 554, obvykle TCP *
+B. Port 1935, obvykle TCP
+C. Port 5060, obvykle UDP
+D. Port 9875, obvykle UDP
+K čemu slouží protokol SDP?
+A. Spravuje multicastové skupiny
+B. Popisuje parametry relace; není samostatným transportem médií *
+C. Řídí přehrávání (PLAY, PAUSE)
+D. Přenáší multimediální data
+K čemu slouží protokol SAP a na jakém portu pracuje?
+A. K registraci klientů; UDP port 5060
+B. K oznamování dostupných multimediálních relací; UDP port 9875 *
+C. K řízení relace; TCP port 554
+D. K přenosu médií; UDP port 1234
+Co obsahuje oznámení SAP?
+A. Seznam členů multicastové skupiny
+B. Šifrovací klíče relace
+C. Samotné video a audio data
+D. Popis SDP (název relace, adresa, port a další parametry příjmu) *
+K čemu slouží IGMP?
+A. K oznamování multimediálních relací
+B. Ke správě členství IPv4 příjemců v multicastových skupinách *
+C. K přenosu médií v reálném čase
+D. K ovládání multimediálního toku
+Co je IGMP snooping?
+A. Šifrovací mechanismus RTP
+B. Funkce přepínače *
+C. Funkce multimediálního serveru
+D. Směrovací protokol mezi sítěmi
+Co se děje, když klient pomocí IGMP oznámí zájem o multicastovou skupinu?
+A. Router začne data posílat všem zařízením
+B. Server vytvoří pro klienta samostatnou kopii toku
+C. Router posílá data jen do částí sítě, kde o ně projevilo zájem nějaké zařízení *
+D. Klient naváže unicastové spojení se zdrojem
+Čím se zabývá popis formátu multimediálního kontejneru?
+A. Přenosem po síti
+B. Šifrováním obsahu
+C. Kompresí jednotlivých stop
+D. Popisem a synchronizací stop; nezabývá se kompresí dat *
+Co je Matroska?
+A. Kodek pro kompresi videa
+B. Otevřený univerzální kontejner s neomezeným počtem stop (přípona .mkv) *
+C. Kontejner od Microsoftu s příponou .avi
+D. Kontejner pouze pro DVD-Video (.vob)
+Co platí o kontejneru AVI?
+A. Je určen pro DVD-Video a nese i menu
+B. Je otevřený a nese neomezený počet stop
+C. Je součástí standardu MPEG-4
+D. Vytvořil ho Microsoft; umí jen zvukovou a video stopu; není vhodný pro streamování *
+K čemu slouží MPEG Program Stream (MPEG-PS)?
+A. Pro ukládání pouze zvuku
+B. Pro streamování na internetu
+C. Pro uchování dat na spolehlivých médiích; jeho varianta VOB se používá na DVD-Video *
+D. Pro přenos tam, kde není zaručena bezchybnost
+Kde se používá MPEG Transport Stream (MPEG-TS)?
+A. Tam, kde není zaručena bezchybnost přenosu (např. DVB-T) *
+B. Pouze pro statické obrazy
+C. Na DVD-Video discích
+D. Pouze pro ukládání zvukových souborů
+Co platí o kontejneru MP4?
+A. Neumí nést titulky
+B. Není vhodný pro streamování
+C. Je součástí standardu MPEG-4, nese více zvukových stop a titulků a je vhodný pro streamování *
+D. Je určen pouze pro DVD-Video
+K čemu slouží kontejner TIFF?
+A. K ukládání videa a titulků
+B. K zapouzdření statických obrazů různých formátů (např. JPEG), i vícestránkových *
+C. K ukládání nekomprimovaného zvuku
+D. K přenosu videa v DVB-T
+K čemu slouží kontejner WAV?
+A. K streamování přes HTTP
+B. K ukládání nekomprimovaných LPCM audio dat (i vícekanálových) *
+C. K ukládání videa
+D. K ukládání obrazů
+Kolik zabere cca 1 sekunda nekomprimovaného video signálu standardního televizního formátu?
+A. Cca 1 MB
+B. Cca 170 MB
+C. Cca 32 MB *
+D. Cca 3 GB
+Které organizace vyvíjejí standardy komprese videa (H.26x a MPEG-x)?
+A. Apple a Microsoft
+B. ITU-T (VCEG) a ISO/IEC (MPEG) *
+C. IEEE a ETSI
+D. IETF a W3C
+Která knihovna je základem frameworku FFmpeg a stojí i za přehrávačem VLC?
+A. libvlc
+B. libx264
+C. libwebrtc
+D. libavcodec *
+K čemu slouží nástroj ffprobe?
+A. Převádí video formáty
+B. Je jednoduchý přehrávač médií
+C. Zobrazuje informace o médiu (i export do XML nebo JSON) *
+D. Streamuje obraz z kamery
+K čemu slouží nástroj ffplay?
+A. Zobrazuje informace o médiu
+B. Je to jednoduchý multimediální přehrávač *
+C. Převádí kontejnery bez překódování
+D. Je to RTMP server
+Jaký přepínač FFmpeg vypíše seznam dostupných filtrů?
+A. -filters *
+B. -demuxers
+C. -encoders
+D. -muxers
+Co jsou v FFmpeg demuxery?
+A. Enkodéry videa
+B. Filtry upravující obraz
+C. Součásti zapisující proud do souboru
+D. Součásti umožňující číst zdrojové médium *
+Co jsou v FFmpeg muxery?
+A. Filtry upravující obraz
+B. Dekodéry audia
+C. Součásti umožňující zapisovat multimediální proud do určitého typu souboru *
+D. Součásti čtoucí zdrojové médium
+Co dělá přepínač -ss v ffmpeg?
+A. Omezí načítání vstupu na časový úsek
+B. Nastaví bitovou rychlost
+C. Nastaví počáteční pozici vstupu *
+D. Zakáže video
+Co dělá přepínač -t v ffmpeg?
+A. Nastaví počet snímků za sekundu
+B. Omezí načítání vstupu na časový úsek *
+C. Opakuje přehrávání vstupu
+D. Nastaví počáteční pozici vstupu
+Co dělá přepínač -vn v ffmpeg?
+A. Zakáže ukládání audia
+B. Nastaví kodek videa
+C. Vypne všechny filtry
+D. Zakáže ukládání videa *
+K čemu slouží přepínač -c:v v ffmpeg?
+A. Zkopíruje video bez překódování
+B. Nastaví výstupní kodek videa *
+C. Nastaví bitovou rychlost videa
+D. Nastaví počet snímků za sekundu
+K čemu slouží přepínač -b:v v ffmpeg?
+A. Nastaví bitovou rychlost videa (např. -b:v 1M) *
+B. Nastaví rozlišení videa
+C. Nastaví výstupní kodek videa
+D. Nastaví počet snímků videa
+K čemu slouží přepínač -r v ffmpeg?
+A. Omezí rychlost čtení vstupu
+B. Nastaví bitovou rychlost
+C. Opakuje vstup
+D. Nastaví počet snímků za vteřinu výsledného videa *
+Co zajistí přepínač -re v ffmpeg?
+A. Zakáže audio
+B. Omezí rychlost čtení vstupu přibližně na rychlost přehrávání (např. simulace živého vysílání ze souboru) *
+C. Zvýší kvalitu videa
+D. Opakuje přehrávání souboru
+Co nastavuje přepínač -qscale:v?
+A. Počet snímků za sekundu
+B. Konstantní bitovou rychlost
+C. Rozlišení videa
+D. Kvalitu s proměnnou bitovou rychlostí; hodnota 1–31, kde 1 je nejlepší kvalita *
+Co udělá filtr scale=w=2*iw:h=2*ih?
+A. Zvětší video dvakrát *
+B. Zmenší video na polovinu
+C. Převede video do odstínů šedi
+D. Vyřízne střed videa
+Co udělá filtr crop=400:300:0:0?
+A. Vyřízne obdélník 400x300 pixelů od pozice 0,0 *
+B. Otočí video o 400 stupňů
+C. Posune video o 400 a 300 pixelů
+D. Zvětší video na 400x300
+K čemu slouží filtr colorspace (např. colorspace=yuv420p)?
+A. K vyřezání videa
+B. K převodu barevného prostoru *
+C. K otočení videa
+D. Ke změně rozlišení
+Co platí pro příjem toku přes UDP v ffplay (např. ffplay udp://192.168.1.100:1234)?
+A. Vyžaduje vždy RTSP
+B. Takto lze přijímat jen kodeky/formáty, které dostatečně popisují svůj formát (např. MPEG-TS) *
+C. Funguje jen pro video bez audia
+D. Lze takto přijímat libovolný kodek
+Co program ffplay neumožňuje?
+A. Přehrát soubor
+B. Přidat více zdrojů vstupního videa *
+C. Přehrát stream z UDP
+D. Použít filtr pomocí -vf
+Která společnost původně uvedla protokol RTMP?
+A. Google
+B. Macromedia *
+C. Microsoft
+D. Apple
+K čemu se RTMP v současnosti využívá spíše?
+A. Ke zjištění kvality sítě
+B. K distribuci obsahu na multimediální server (přehrávačům se využívá HLS) *
+C. K přehrávání videa v prohlížeči
+D. K signalizaci hovorů
+Jaký transportní protokol používá RTMP?
+A. UDP
+B. SCTP
+C. TCP *
+D. QUIC
+K čemu slouží metoda PUBLISH v RTMP?
+A. K registraci klienta
+B. K přehrávání obsahu z RTMP serveru
+C. K šifrování streamu
+D. Ke streamování obsahu z enkodéru do RTMP serveru *
+K čemu slouží metoda PLAY v RTMP?
+A. K přehrávání obsahu z RTMP serveru do klientského přehrávače *
+B. K ukončení relace
+C. K nahrávání streamu
+D. Ke streamování z enkodéru na server
+Jaký je tvar RTMP URL?
+A. rtmp://<ADRESA SERVERU>/<NÁZEV APLIKACE>/<STREAMOVACÍ KLÍČ> *
+B. rtmp://<ADRESA SERVERU>?key=<NÁZEV APLIKACE>
+C. rtmp://<STREAMOVACÍ KLÍČ>/<NÁZEV APLIKACE>/<ADRESA SERVERU>
+D. rtmp://<NÁZEV APLIKACE>:<PORT>/<ADRESA SERVERU>
+Jak se v praxi nejčastěji zabezpečuje přístup u RTMP?
+A. Šifrováním segmentů AES-128
+B. Tajným streamovacím klíčem nebo omezením IP adres *
+C. Certifikátem klienta
+D. Přihlášením pomocí SIP
+Podporuje protokol RTMP šifrování přenosu dat?
+A. Ano, standardně pomocí AES
+B. Ano, pomocí SRTP
+C. Ano, pomocí IPsec
+D. Ne; pro šifrování se používá varianta RTMPS (TLS) *
+Co zajišťuje RTMPS navíc oproti RTMP?
+A. Přenos přes UDP
+B. Šifrování pomocí TLS a autentizaci serveru pomocí PKI (certifikát) *
+C. Vyšší kvalitu videa
+D. Podporu kodeku H.265
+Jaký plugin umožňuje, aby Nginx zakončoval RTMP spojení?
+A. nginx-hls-module
+B. nginx-srt-module
+C. nginx-rtmp-module *
+D. rtmp-proxy
+Který soubor je hlavním konfiguračním souborem Nginx?
+A. site/index.html
+B. conf/rtmp.conf
+C. logs/access.log
+D. conf/nginx.conf *
+K čemu slouží direktivy access_log a error_log?
+A. K šifrování logů
+B. K nastavení záznamu vyřízených a chybových požadavků do textových souborů *
+C. K nastavení přístupových práv
+D. K omezení počtu požadavků
+Co dělá direktiva autoindex on;?
+A. Vypne kešování
+B. Zapne HTTPS
+C. Nastaví kořenovou složku webu
+D. Povolí výpis adresáře při neexistujícím indexu *
+K čemu slouží vnořená direktiva location (např. s alias)?
+A. K šifrování spojení
+B. K úpravě chování pro jednotlivé podsložky, např. přesměrování do jiného kořenového adresáře *
+C. K nastavení portu serveru
+D. K zapnutí RTMP modulu
+Které direktivy vypnou démon a zrychlí ukončení Nginx pro testování?
+A. worker_processes 0;
+B. stop_server on;
+C. daemon on; master_process on;
+D. daemon off; master_process off; *
+Na kterém portu naslouchá RTMP server v příkladu konfigurace?
+A. 80
+B. 1935 *
+C. 554
+D. 1936
+Co je nutné povolit, aby v RTMP aplikaci fungovalo živé streamování?
+A. push on;
+B. record all;
+C. hls on;
+D. live on; *
+Co nastavuje direktiva record_path?
+A. Cestu pro uložení nahrávek *
+B. Příponu souboru
+C. Zapnutí nahrávání videa
+D. Maximální velikost nahrávky
+Co nastavuje direktiva record_suffix?
+A. Cestu pro uložení nahrávek
+B. Maximální velikost nahrávky
+C. Interval pro nový soubor
+D. Konec názvu vytvořeného souboru (podporuje proměnné strftime) *
+Co zajišťuje direktiva record_append?
+A. Vytvoří nový soubor po zadaném počtu sekund
+B. Omezí velikost nahrávky
+C. Nahrávky se připíší na konec existujícího souboru (výchozí je přepsání) *
+D. Vypne nahrávání
+Co zajišťuje direktiva record_interval?
+A. Omezí maximální velikost nahrávky
+B. Nastaví cestu nahrávek
+C. Do souboru se uloží zadaný počet sekund, poté se vytvoří nový soubor *
+D. Připíše nahrávku k existujícímu souboru
+Které znaky nelze kvůli omezení souborového systému používat v record_suffix?
+A. Procenta (%) a tečku
+B. Čísla
+C. Pomlčku a podtržítko
+D. Například vykřičník a dvojtečku *
+Která direktiva v RTMP aplikaci předává přijaté streamy na jiný RTMP server?
+A. pull
+B. forward
+C. relay
+D. push *
+K čemu slouží direktivy allow publish a deny publish?
+A. K zapnutí nahrávání
+B. K omezení, kdo smí publikovat média (např. podle IP adres) *
+C. K omezení, kdo smí přehrávat média
+D. K šifrování publikovaného streamu
+Která certifikační autorita umožňuje bezplatné vystavení důvěryhodných certifikátů?
+A. Macromedia
+B. Blackmagic
+C. Let’s Encrypt *
+D. PowerShell
+Jaký protokol Let’s Encrypt používá pro automatické ověření a vystavení certifikátu?
+A. TLS
+B. SRT
+C. PKI
+D. ACME *
+Co platí o self-signed certifikátu?
+A. Nezajišťuje šifrování
+B. Není důvěryhodný, ale zajišťuje šifrování přenášených dat *
+C. Je důvěryhodný pro všechny prohlížeče
+D. Vystavuje ho Let’s Encrypt
+V jakém formátu vyžaduje Nginx certifikáty?
+A. PFX
+B. DER (binárně)
+C. JSON
+D. PEM (certifikát zakódovaný pomocí BASE64) *
+Jak se v Nginx řeší RTMPS, když plugin RTMP nepodporuje RTMPS přímo?
+A. Pomocí HLS
+B. Přepnutím na UDP
+C. Přímo direktivou rtmps on;
+D. Pomocí sekce stream, která zabalí TCP spojení do TLS *
+Jak se v Nginx zapne HTTPS?
+A. Přidáním direktivy listen 443 ssl a nastavením cesty k certifikátu *
+B. Direktivou rtmps on;
+C. Přidáním direktivy https on;
+D. Přepnutím na port 1935
+Který kontejner používá RTMP pro video a co podporuje?
+A. MPEG-TS; video AV1
+B. Flash Video (FLV); video H.264, audio MP3 nebo AAC *
+C. MP4; video H.265
+D. Matroska; libovolné kodeky
+Co je velkým omezením RTMP v souvislosti s trendem přechodu na H.265/HEVC?
+A. RTMP nepodporuje audio
+B. RTMP vyžaduje UDP
+C. RTMP nepodporuje TCP
+D. Kontejner FLV v ISO verzi podporuje pro video pouze H.264 *
+Na čem je SRT založen?
+A. Pracuje nad TCP
+B. Pracuje nad HTTP
+C. Pracuje nad UDP; ztracené pakety lze v časovém okně znovu vyžádat *
+D. Používá RTSP
+Pro jaký případ je SRT vhodný zejména?
+A. Pro signalizaci hovorů
+B. Pro ukládání souborů
+C. Pro distribuci videa koncovým divákům
+D. Pro contribution – přenos mezi vzdáleným zdrojem a produkčním/distribučním systémem *
+Které režimy lze použít pro navázání SRT spojení?
+A. push, pull, relay
+B. publisher, subscriber, broker
+C. caller, listener, rendezvous *
+D. client, server, proxy
+Co určují označení caller a listener v SRT?
+A. Směr toku multimediálních dat
+B. Velikost vyrovnávací paměti
+C. Která strana navazuje spojení, nikoliv směr toku dat *
+D. Šifrování
+Který parametr SRT URL nastavuje velikost okna pro vyrovnání zpoždění a opakovaný přenos?
+A. latency *
+B. passphrase
+C. pbkeylen
+D. mode
+Který parametr SRT URL nastavuje heslo pro šifrování?
+A. mode
+B. pbkeylen
+C. passphrase *
+D. latency
+Co určuje parametr pbkeylen v SRT?
+A. Délku šifrovacího klíče (16, 24 nebo 32 bajtů – AES-128/192/256) *
+B. Délku hesla
+C. Velikost paketu
+D. Velikost vyrovnávací paměti
+Jak vypadá SRT URL?
+A. srt://<ADRESA>:<PORT>?<PARAMETRY>, parametry oddělené & *
+B. srt://<PORT>@<ADRESA>
+C. srt:<ADRESA>#<PARAMETRY>
+D. srt://<ADRESA>/<APLIKACE>/<KLÍČ>
+Jaký vliv má vyšší latence SRT?
+A. Vypíná šifrování
+B. Nemá žádný vliv
+C. Zvyšuje odolnost proti ztrátám a kolísání zpoždění, ale zvětšuje celkové zpoždění *
+D. Snižuje celkové zpoždění
+Jaká latence SRT se typicky používá v lokální síti a přes internet?
+A. LAN cca 50–100 ms, internet typicky 200–500 ms *
+B. LAN 1 ms, internet 10 ms
+C. LAN i internet 5 s
+D. LAN 500–1000 ms, internet 50–100 ms
+Jakou šifru podporuje SRT?
+A. Šifrování nepodporuje
+B. DES
+C. AES *
+D. RC4
+Z jakých částí se skládá řetězec živého vysílání?
+A. Enkodér, SIP server, gatekeeper, přehrávač
+B. Zdroj multimédií, enkodér, transportní protokol, produkční/distribuční systém, přehrávač *
+C. Kamera, router, firewall, přehrávač
+D. Zdroj, multiplexer, DNS server, přehrávač
+Jaký kodek enkodér typicky používá při živém streamování?
+A. JPEG 2000
+B. G.711
+C. MPEG-1
+D. H.264/AVC *
+Který z uvedených je hardwarový enkodér?
+A. XSplit Broadcaster
+B. FFmpeg
+C. OBS Studio
+D. Blackmagic Web Presenter *
+Která knihovna se v OBS používá pro kódování videa?
+A. face-api.js
+B. libvpx
+C. x264 (a hardwarové Intel Quick Sync, NVENC, AMD VCE) *
+D. Video.js
+Které protokoly pro přenos OBS podporuje?
+A. Primárně RTMP, dále SRT a HLS *
+B. Pouze RTMP
+C. Pouze SIP
+D. Pouze RTSP
+Co jsou v OBS Scény?
+A. Předpřipravené kompozice, které mohou obsahovat různé zdroje *
+B. Komponenty jednotlivých zdrojů
+C. Nastavení přechodů
+D. Směšovač audia
+Co jsou v OBS Zdroje?
+A. Předpřipravené kompozice
+B. Efekty změny scény
+C. Samotné komponenty jednotlivých scén (kamera, záznam obrazovky, obrázek, text, prohlížeč, médium, scéna) *
+D. Nastavení výstupu
+K čemu slouží v OBS zdroj typu Prohlížeč?
+A. Umožňuje vložit statický obrázek
+B. Umožňuje vložit webovou stránku (vzhled lze upravit pomocí CSS) *
+C. Vloží jinou scénu
+D. Zachytí obraz z kamery
+K čemu slouží v OBS zdroj typu Scéna?
+A. Vloží do scény jinou scénu (recyklace částí kompozice) *
+B. Zachytí obrazovku
+C. Vloží video soubor
+D. Vloží webovou stránku
+Co je v OBS Směšovač?
+A. Slouží k přepínání scén
+B. Slouží ke smíchání různých audio zdrojů *
+C. Slouží ke kódování videa
+D. Slouží k nastavení rozlišení
+Co v OBS ukládá Profil a co Kolekce scén?
+A. Profil – nastavení výstupu (enkodér, server, nahrávání); Kolekce scén – nastavení scén a zdrojů *
+B. Profil – seznam zdrojů; Kolekce scén – seznam přechodů
+C. Obojí ukládá pouze zvukové zdroje
+D. Profil – nastavení scén; Kolekce scén – nastavení výstupu
+Který náhled zobrazuje v Studiovém módu OBS scénu aktuálně živě ve výstupu?
+A. Oba náhledy
+B. Žádný, zobrazuje se jen Program
+C. Pravý náhled *
+D. Levý náhled
+Co se stane v OBS, pokud není zvolena volba nahrávací kvality „Stejná jako vysílaná“?
+A. Použije se pouze hardwarové kódování
+B. Stream se nepřenáší
+C. OBS kóduje nahrávání a streamování zvlášť, což značně zvýší využití systémových zdrojů *
+D. Nahrávání se nespustí
+Co je Adaptive Bitrate Streaming (ABR)?
+A. Komprese bez ztrát
+B. Přenos pouze v multicastu
+C. Přenos videa pouze v nejvyšší kvalitě
+D. Technika, kdy je obsah dostupný v několika kvalitativních variantách a přehrávač vybírá vhodnou podle podmínek *
+Jaké jsou výhody použití HTTP pro adaptivní streamování?
+A. Nižší latence než RTP vždy
+B. Nepodporuje CDN
+C. Funguje i tam, kde firewall blokuje newebové služby; snadné škálování *
+D. Nevyžaduje segmenty
+Která společnost uvedla protokol HLS?
+A. Apple *
+B. Adobe
+C. Google
+D. Microsoft
+Jak se HLS přehrává v prohlížečích?
+A. Pouze v aplikaci VLC
+B. Nativně v Safari, jinde přes JavaScriptové knihovny (hls.js, Video.js) *
+C. Pouze přes plugin Flash
+D. Nativně ve všech prohlížečích
+Jaké kontejnery může HLS používat?
+A. Pouze AVI
+B. MPEG-TS nebo fragmented MP4 (fMP4) *
+C. Pouze FLV
+D. Matroska a WAV
+Co je CMAF?
+A. Šifrovací standard pro HLS
+B. Protokol pro signalizaci WebRTC
+C. Společný mediální formát založený na ISO Base Media File Format, umožňuje stejné segmenty pro HLS i MPEG-DASH *
+D. Kodek pro HLS
+Jaké formáty titulků podporuje HLS?
+A. SRT a ASS
+B. WebVTT nebo IMSC1 *
+C. Pouze SDP
+D. Pouze TIFF
+Který playlist HLS ukazuje na jednotlivé varianty videa?
+A. Media Playlist
+B. Multivariant Playlist (dříve master playlist) *
+C. Segment Playlist
+D. MPD
+Na co ukazuje Media Playlist v HLS?
+A. Na jiné Multivariant Playlisty
+B. Na šifrovací klíče všech variant
+C. Na jednotlivé varianty
+D. Na jednotlivé segmenty dané varianty videa *
+Jakou délku segmentu HLS doporučuje Apple?
+A. Přibližně 6 s *
+B. Přibližně 60 s
+C. Přesně 1 s
+D. Cca 100 ms
+Co je Low-Latency HLS (LL-HLS)?
+A. Varianta HLS bez playlistů
+B. Rozšíření HLS s částečnými segmenty, snižuje latenci na jednotky sekund *
+C. Náhrada HLS protokolem RTP
+D. Rozšíření HLS pro šifrování
+Jaká latence je typická pro klasické HLS?
+A. Několik až desítky sekund *
+B. Pod 100 ms
+C. Jednotky milisekund
+D. Přesně 1 s
+Jaký standard je MPEG-DASH?
+A. ITU-T H.264
+B. ISO/IEC 23009 *
+C. RFC 2326
+D. RFC 3550
+Co jsou v MPD objekty AdaptationSet a Representation?
+A. AdaptationSet je konkrétní varianta; Representation sdružuje stopy
+B. Obojí jsou kontejnery
+C. Obojí jsou HLS playlisty
+D. AdaptationSet sdružuje zaměnitelné stopy; Representation je konkrétní varianta (kodek, rozlišení, bitrate) *
+Co dělá direktiva hls_variant v Nginx?
+A. Zapíná šifrování
+B. Nastavuje délku segmentu
+C. Pouze sdružuje existující streamy podle přípony do Multivariant Playlistu; varianty nevytváří *
+D. Vytváří kvalitativní varianty překódováním
+Co určuje direktiva hls_path?
+A. Příponu souboru
+B. Délku segmentu
+C. URL klíče
+D. Cestu, do které se vytvářejí segmenty a playlisty *
+Co musí splňovat všechny kódované varianty pro přepínání na hranicích segmentů?
+A. Stejné rozlišení
+B. Stejnou snímkovou frekvenci a časově zarovnané klíčové snímky *
+C. Stejný kodek audia i videa, ale různé kontejnery
+D. Stejný bitrate
+Proč se u HLS/DASH vypíná kešování částí streamu (Cache-Control: no-cache, expires -1)?
+A. Protože je stream šifrovaný
+B. Protože se u živého streamu neustále mění playlisty a segmenty *
+C. Protože se tím zrychluje překódování
+D. Protože HLS nepodporuje HTTP
+Co definuje origin v CORS?
+A. Pouze port
+B. Pouze doménové jméno
+C. Pouze IP adresa
+D. Kombinace schématu, doménového jména a portu *
+Jakou hlavičkou lze v Nginx pro laboratorní účely povolit přístup z libovolného původu?
+A. Access-Control-Allow-Origin: * *
+B. Content-Type: text/plain
+C. Cache-Control: no-cache
+D. Access-Control-Max-Age: 0
+Co jsou preflight požadavky v CORS?
+A. Požadavky typu GET na playlist
+B. Požadavky na šifrovací klíč
+C. Požadavky prohlížeče na DNS
+D. HTTP dotazy typu OPTIONS, které prohlížeč automaticky odešle před „nebezpečným“ požadavkem *
+Jaký stavový kód vrací Nginx na preflight požadavek OPTIONS v ukázkové konfiguraci?
+A. 200
+B. 404
+C. 204 *
+D. 401
+K čemu slouží direktiva exec v RTMP pluginu?
+A. Zapne šifrování
+B. Spustí po doručení příchozího média program (např. ffmpeg); ve Windows není podporována *
+C. Přesměruje stream
+D. Nastaví cestu nahrávek
+Co nastavuje parametr -g 150 při 30 snímcích za sekundu?
+A. Bitrate na 150 kb/s
+B. Počet snímků za sekundu na 150
+C. Maximální délku GOP 150 snímků, tedy 5 sekund *
+D. Počet variant na 150
+Co dělá parametr -sc_threshold 0?
+A. Vypne audio
+B. Vypne automatické vkládání klíčových snímků při změně scény (klíčové snímky vznikají pravidelně) *
+C. Zapne šifrování
+D. Nastaví maximální bitrate
+Co zajistí parametr -c copy?
+A. Video ani audio se nepřekódovává, pouze se přepošle *
+B. Video se překóduje H.264
+C. Zvuk se vypne
+D. Video se zkopíruje do více souborů
+Co dělá filtr split=2 v -filter_complex?
+A. Rozdělí obraz do dvou větví pro další zpracování *
+B. Zdvojnásobí rozlišení
+C. Rozdělí video na dva soubory
+D. Rozdělí video na dvě poloviny vedle sebe
+K čemu slouží sekce <head> v HTML?
+A. K metadatům stránky (titulek, odkazy na externí části, styly) *
+B. K samotnému viditelnému obsahu
+C. K vložení videa
+D. K definici JavaScriptových funkcí
+Co je hlavním účelem CSS?
+A. Přenos multimédií
+B. Oddělení stylů (vzhledu) od obsahu webu *
+C. Šifrování stránek
+D. Zpracování dat na serveru
+Jak se připojí externí kaskádový styl style.css?
+A. <link rel="stylesheet" href="style.css"> v hlavičce *
+B. <script src="style.css"></script>
+C. <css href="style.css">
+D. <style src="style.css"/> v těle stránky
+Co platí o atributech id a class?
+A. Obojí musí být unikátní
+B. id by měl být v rámci stránky unikátní; class lze použít opakovaně *
+C. Obojí lze použít jen jednou na element
+D. id lze použít opakovaně; class je unikátní
+Co vybere selektor .header h1?
+A. Pouze přímé rodiče h1
+B. Element h1 s id header
+C. Všechny elementy s třídou header a h1
+D. Všechny elementy h1, které jsou potomky elementu s třídou header *
+Jakou vlastností CSS se zobrazí tři elementy div vedle sebe v ukázce?
+A. display: block
+B. float: none
+C. position: absolute
+D. display: flex (flexbox) *
+Na kolik sloupců dělí šířku stránky Grid ve frameworku Bootstrap?
+A. Na 6 sloupců
+B. Na 12 sloupců *
+C. Na 8 sloupců
+D. Na 24 sloupců
+Jaké responzivní třídy má Bootstrap Grid?
+A. s, m, l
+B. mobile, tablet, desktop
+C. xs, sm, md, lg, xl, xxl *
+D. sm, md, lg
+Co znamená třída col-sm-6 v Bootstrapu?
+A. Element se zobrazí jen na mobilu
+B. Element zabírá 6 sloupců vždy
+C. Element zabírá 6 pixelů
+D. Element zabírá 6 sloupců od šířky alespoň 576 px *
+Čím musí být v Bootstrapu obaleny sloupce?
+A. Kontejnerem (container) a řádkem (row) *
+B. Elementem <table>
+C. Pouze řádkem (row)
+D. Elementem <section>
+Jak se v HTML vloží statické video s ovládacími prvky?
+A. Elementem <video controls> *
+B. Elementem <movie src>
+C. Elementem <stream>
+D. Elementem <media play>
+Co se používá pro přehrávání HLS a DASH v prohlížečích bez nativní podpory?
+A. JavaScriptové knihovny spolupracující s Media Source Extensions (MSE) *
+B. Protokol RTSP
+C. Prvek <audio>
+D. Plugin Flash Player
+Co vytváří webový prohlížeč na základě HTML kódu?
+A. Document Object Model (DOM) *
+B. Cascading Style Sheet
+C. Media Source Extension
+D. JSON dokument
+Co zajistí atribut defer u elementu <script>?
+A. Asynchronní stažení bez spuštění
+B. Spuštění skriptu před načtením stránky
+C. Zakázání skriptu
+D. Spuštění skriptu až po zpracování HTML dokumentu *
+K čemu slouží metoda addEventListener()?
+A. K načtení dat ze serveru
+B. K definici CSS stylu
+C. K vytvoření nového elementu
+D. K reakci na události prvků stránky (např. kliknutí) *
+Jakými klíčovými slovy se definují proměnné v JavaScriptu?
+A. int a string
+B. dim a var2
+C. define a set
+D. const a let *
+Co je Node.js?
+A. Databáze
+B. Knihovna pro přehrávání videa
+C. Platforma pro spouštění JavaScriptu na straně serveru *
+D. Prohlížeč
+Jak se spustí soubor app.js v Node.js?
+A. node app.js *
+B. js app.js
+C. run app.js
+D. npm app.js
+Který vestavěný modul Node.js se používá pro naslouchání na TCP portu a HTTP?
+A. http *
+B. socket-io
+C. fetch
+D. net-rtmp
+K čemu slouží Fetch API?
+A. K vykreslení do canvasu
+B. K šifrování segmentů
+C. K přehrávání videa
+D. K asynchronnímu získání dat v prohlížeči (např. JSON ze serveru) *
+Jakou metodou se ve Fetch API zpracuje odpověď ve formátu JSON?
+A. response.parse()
+B. response.json() *
+C. response.text.json
+D. JSON.fetch()
+Jakou událost vyvolá přehrávač Video.js při změně vnitřních rozměrů videa (např. přepnutí varianty)?
+A. loadstart
+B. ended
+C. resize *
+D. seeked
+Jak lze v prohlížeči simulovat pomalejší síť?
+A. Změnou rozlišení monitoru
+B. F12 → karta Network → profil omezení (throttling) *
+C. Direktivou hls_cleanup
+D. Vypnutím cache v OBS
+Co zapíná direktiva hls_keys on;?
+A. CORS
+B. Šifrování HLS segmentů *
+C. Adaptivní přepínání
+D. Nahrávání
+Co určuje direktiva hls_fragments_per_key 5;?
+A. Počet klíčů v playlistu
+B. Po kolika fragmentech se mění šifrovací klíč *
+C. Počet variant
+D. Délku segmentu v sekundách
+Co obsahuje tag #EXT-X-KEY?
+A. Metodu (AES-128), URI klíče a inicializační vektor (IV) *
+B. Heslo uživatele
+C. Délku segmentu
+D. Seznam segmentů
+Co je úlohou autentizace a autorizace při vydávání klíčů?
+A. Autentizace ověří identitu uživatele, autorizace rozhodne, zda má oprávnění klíč získat *
+B. Obojí je totéž
+C. Obojí šifruje segmenty
+D. Autentizace určuje oprávnění, autorizace ověřuje identitu
+Jak se uchovává přihlášení uživatele u autentizační služby?
+A. V segmentech videa
+B. V souboru nginx.conf
+C. Pomocí uživatelské relace (session) uložené na serveru *
+D. V playlistu HLS
+K čemu se v Nginx používá direktiva proxy_pass v location /api/?
+A. K šifrování segmentů
+B. K nahrávání streamů
+C. K nastavení CORS
+D. Ke zpřístupnění backendové (Node.js) služby *
+Co je MediaStream?
+A. Plátno pro kreslení
+B. Tok médií složený z jednotlivých MediaStreamTrack (video/audio) *
+C. Spojení typu peer-to-peer
+D. Jedno kodekové nastavení
+Co vrací metoda getUserMedia()?
+A. Číslo – ID zařízení
+B. Promise, který po udělení oprávnění poskytne objekt MediaStream *
+C. Pole snímků
+D. Objekt RTCPeerConnection
+Jak se MediaStream zobrazí v elementu <video>?
+A. Zavoláním drawImage()
+B. Přiřazením do vlastnosti srcObject *
+C. Přiřazením do vlastnosti href
+D. Přiřazením do src jako řetězec
+Která funkce synchronizuje vykreslování snímků s obnovovací frekvencí monitoru?
+A. setInterval(1)
+B. requestAnimationFrame() *
+C. getImageData()
+D. setTimeout()
+Co dělá funkce na odstíny šedi z teorie (průměr R, G, B)?
+A. Odstraní zelenou složku
+B. Přičte alfa kanál ke každému pixelu
+C. Zvětší obraz dvakrát
+D. Pomocí getImageData nastaví R, G i B na jejich průměr a zapíše zpět putImageData *
+Proč se doporučuje u face-api.js volat detekci tváří pomocí setTimeout (např. 200 ms) místo každého snímku?
+A. Protože se tím zvýší rozlišení
+B. Protože detekce nefunguje na každém snímku
+C. Pro snížení zátěže *
+D. Protože canvas nepodporuje animaci
+Jak se překryje video overlay canvasem?
+A. Vložením canvasu do <head>
+B. Pomocí atributu defer
+C. Absolutní pozicí canvasu v CSS (např. Bootstrap position-absolute) *
+D. Nastavením z-index videa na 0
+Co platí o přenosu médií ve WebRTC po navázání spojení?
+A. Všechna média vždy procházejí signalizačním serverem
+B. Komunikace je vždy nešifrovaná
+C. Používá se pouze TCP přes HTTP
+D. Média zpravidla nemusí procházet aplikačním serverem a komunikace je šifrovaná *
+Co určuje standard WebRTC ohledně signalizace?
+A. Povinně SIP
+B. Povinně HTTP polling
+C. Neurčuje, jak má být realizována (lze např. WebSocket) *
+D. Povinně RTSP
+K čemu slouží server STUN?
+A. K šifrování streamu
+B. K výměně popisu relace
+C. Ke zjištění veřejné síťové adresy klienta *
+D. K přenosu médií, pokud není možné P2P
+K čemu slouží server TURN?
+A. Vyměňuje popis relace
+B. Převádí video na HLS
+C. Přenáší komunikaci (relay), pokud přímé peer-to-peer spojení není možné *
+D. Zjišťuje veřejnou adresu
+Co si klienti musí před zahájením WebRTC přenosu vyměnit?
+A. Šifrovací klíče AES-128
+B. Playlist HLS
+C. Streamovací klíče RTMP
+D. Popis relace (SDP offer/answer) a síťové ICE kandidáty *
+Která událost zpřístupní vzdálený MediaStream v RTCPeerConnection?
+A. track *
+B. play
+C. resize
+D. call
+Jak se v PeerJS vytvoří odchozí volání?
+A. peer.answer(peerId)
+B. peer.connect(stream)
+C. call.start(peerId)
+D. peer.call(peerId, mediaStream) *
+Jak volaný klient v PeerJS odpoví na příchozí hovor?
+A. call.answer(mediaStream) v obsluze události call *
+B. call.close()
+C. peer.call(peerId, stream)
+D. peer.on('stream')
+Co je PeerServer v PeerJS?
+A. Server pro HLS
+B. Signalizační server, který pomáhá klientům najít se a předat informace pro navázání spojení *
+C. Server, který přenáší všechna média
+D. Server TURN

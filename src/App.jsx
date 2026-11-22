@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 
-const DEFAULT_FILE = "/otazky.txt";
+const DEFAULT_FILE = "/txt_files/otazky.txt";
 
 function parseQuestions(text) {
   const lines = text.split(/\r?\n/);

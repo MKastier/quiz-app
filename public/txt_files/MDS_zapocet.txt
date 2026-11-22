@@ -1,0 +1,1323 @@
+Délka IP hlavičky musí být násobkem:
+A. 32 bitů *
+B. 16 bitů
+C. 24 bitů
+D. 8 bitů
+Datový tok RTP obvykle spotřebuje:
+A. 80% z celkového toku pro multimediální data
+B. celou šířku pásma
+C. 95% z celkového toku pro multimediální data *
+D. 90% z celkového toku pro multimediální data
+E. 85% z celkového toku pro multimediální data
+SDP nenajdu v:
+A. SIP odpovédi 200 OK
+B. SIP žádosti INVITE
+C. SIP odpovědi 180 Ringing *
+D. SIP žádosti ACK
+Pole CSRC Count v RTP:
+A. obsahuje počet přispívajích zdrojů v rozšířené hlavičce *
+B. identifikuje přispívající zdroj
+C. identifikuje vysílací zdroje
+D. popisuje přispívající zdroje
+Pole CSRC Identifier v RTP:
+A. obsahuje počet přispívajích zdrojů v rozšířené hlavičce
+B. identifikuje přispívající zdroj *
+C. identifikuje vysílací zdroje
+D. popisuje přispívající zdroje
+Který z následujících doporučení slouží ke kompresi videa?
+A. H.264 *
+B. RTSP
+C. Q.931
+D. MPEG-7
+E. H.323
+Bitová rychlost řečového kodéru G.711 v kb/s je ?
+A. 32
+B. 64 *
+C. 8
+D. 16
+E. 96
+Odpovědi SIP s cislem 4XX:
+A. znamenají chybu na straně klienta *
+B. znamenají chybu na straně serveru
+C. znamenají přesměrování
+D. znamenají úspěch
+Rozdil časů D(l) dvou po sobě jdoucích paketů přijatých přijímačem a odeslaných vysílačem, kde S(I) je časové razítko RTP paketu a R(I) je čas příchodu RTP paketu můžeme vypočítat vztahem?
+A. D(l) = (RŮ-RFTASUS(-1))
+B. ani jedna není zprávná *
+C. D(I) = (R(I)-R(FT)HS()+S(F1))
+D. D(I) = (R+R(FY-(SI)-S(-1))
+E. D(I) = (R()+R(-1))(S()+S(1-1))
+MCU u H.323 je:
+A. Multicast Control Unit
+B. Multimedia Control Unit
+C. Multipoint Control Unit *
+D. Multizone Control Unit
+Standardní hlavička protokolu RTP obsahuje?
+A. 12 oktetů *
+B. 24 oktetů
+C. 20 oktetů
+D. 16 oktetů
+RTSP neobsahuje zpravu (metodu) ?
+A. OPTION
+B. SETUP
+C. INVITE *
+D. DESCRIBE
+Která metoda SIP zpráv slouží k přeposlání hovoru k jinému účastnikovi?
+A. REFER *
+B. CANCEL
+C. DESCRIBE
+D. INVITE
+Na kterou adresu se dovolam?
+A. sip_marek@147.223.69.54
+B. sip://152147.223.69.54
+C. sip:/147.223.69.54
+D. sip:152@147.223.69.54 *
+Mezi základní parametry QoS nepatří ?
+A. zpoždění
+B. ztráta paketů
+C. jitter
+D. kvalita hovorové signalizace u VoIP *
+Jakou odpověď posílá klient v případě, že hovor zamitnete?
+A. CANCEL
+B. BYE *
+C. DISCONNECT
+D. ENDCONNECT
+Která z metod je určena k transferu hovorů?
+A. TRANSFER
+B. TRANSFER NOW
+C. REFER *
+D. RECONNECT
+SIP :
+A. je protokol pro přenos multimediálních dat
+B. je starší název pro VoIP
+C. je signalizační protokol *
+D. je zkratka pro Stručný Informační Protokol
+TTL (Time to Live) v IP datagramu
+A. stanovuje maximální počet přeskoků v siti *
+B. stanovuje maximálně strávený čas paketu v jednom směrovači (v sekundách)
+C. stanovuje doba výskytu paketu v sekundách
+D. stanovuje minimální počet přeskoků v síti
+Zpráva H.225-RAS Gatekeeper Request :
+A. slouží k řízení přístupu
+B. slouží k nalezení gatekeeperu *
+C. slouží k rozvázání komunce mezi dvěma terminály
+D. slouží k ukončení komunce s gatekeeperem
+Hlavička IP datagramu nenese informaci o ?
+A. zdrojovém a cilovém portu *
+B. cílové adrese
+C. fragmentu
+D. typu sluzby (ToS)
+E. zdrojové adrese
+Jaké zprávy musí být vyměněny pro úspěšné navázání hovoru v SIP?
+A. INVITE, 300 OK, ACK
+B. INVITE, 200 OK
+C. INVITE, 300 OK
+D. INVITE, 180 Ringing, 200 OK
+E. INVITE, 200 OK, ACK *
+Protokol H.245 u H.323 :
+A. signalizuje, který z terminálů je zapnutý a který vypnutý
+B. signalizuje schopnosti jednotlivých terminálů *
+C. přenáší multimediální data
+D. stará se o nalezení gatekeeperu v síti
+Pri sestavovani SIP relace:
+A. je jako prvni posilana metoda REGISTER
+B. je jako první posilana metoda START
+C. je jako prvni posilana metoda INVITE *
+D. je jako prvni posilana metoda REFER
+Metoda ACK potvrzuje ?
+A. metodu REFFER
+B. metodu INVITE *
+C. metodu CANCEL
+D. metodu REINVITE
+Pri vysilani na multicastovou adresu :
+A. použiji adresu v rozsahu 192.168.1.0— 255
+B. data budou přijímat pouze stanice, které jsou přihlášeni do multicastové skupiny *
+C. koncové stanice mohou ovládat moje vysílání
+D. určuje vysílací server, komu data pošle
+RTCP zahrnuje zprávy ?
+A. pouze Receiver Report RR
+B. Receiver Description RDES
+C. pouze Source Description SDES
+D. Application Specific APP a Receiver Description RDES
+E. Sender Report SR a Receiver Report RR *
+Jaký port je standardně využíván zprávami SIP?
+A. 1060
+B. 1080
+C. 5060 *
+D. 5080
+E. 5065
+Kolik SDP se standardně vymění mezi dvěma uživateli při SIP volání?
+A. 4
+B. 2 *
+C. 3
+D. 1
+Co znamená zkratka DISA?
+A. Digital System Announcement
+B. Digital SAmple
+C. Direct Inward System Access *
+D. Diskrétni Invariabilni Systémový Automat
+U H.323 se jednotlivé zařízení domlouvají o typu použitého kodeku pro komunikaci?
+A. před vlastním spojením
+B. po prvním vyslaném RTP paketu
+C. po spojeni *
+D. SDP protokolem
+Platna multicastova adresa je?
+A. 221.255.1.1
+B. 147.229.148.48
+C. 239.255.1.1 *
+D. 192.168.1.16
+E. 147.229.148.0
+Hlavička UDP neobsahuje?
+A. dělku paketu
+B. cílový port
+C. zdrojový port
+D. zdrojovou a cílovou adresu *
+E. kontrolní součet
+Jaký protokol se pouziva k prenosu informaci o UA v SIPu?
+A. SMTP
+B. SDP *
+C. SAP
+D. RTSP
+Ve které metodé SIP zprav se posilaji informace o schopnostech VolP telefonů?
+A. DESCRIBE
+B. INVITE *
+C. CANCEL
+D. CONNECT
+Payload type v RTP:
+A. obsahuje sekvenční číslo paketu
+B. má 8 bitů
+C. má 5bitů
+D. obsahuje adresu zařízení, ke kterému má být paket RTP doručen
+E. má 6 bitů
+F. určuje, jaké kódování je pro data, přenášená v paketu, použito *
+Počet oktetů v záhlaví RTP (bez CSRC identifikátorů) je?
+A. 8
+B. 20
+C. 16
+D. 12 *
+Standardni port pro vysilani RTSP zprav je ?
+A. 554 *
+B. 5060
+C. 1720
+D. 8080
+K čemu slouží metoda (zpráva) REGISTER v SIP?
+A. používá se pro dotázání na schopnosti serveru
+B. slouží k zahájení spojení s volajicím
+C. využívá se k registraci klientů na registrar server *
+D. slouží pro odpověď ze strany serveru
+Realtime Transport Protocol (RTP):
+A. pracuje na relační vestvě TCP/IP
+B. pracuje na aplikační vrstvě TCP/IP *
+C. pracuje na síťové vrstvě TCP/IP
+D. pracuje na fyzické vrsté TCP/IP
+K řídicí signalizaci u H.323 neslouží?
+A. H.245
+B. H.450
+C. H.235
+D. H.263 *
+Pro zajištění rekomprese dat vysílaných od více účastníků do jedné konference vytvořené pomocí H.323 slouží?
+A. MPU
+B. MCX
+C. MCU *
+D. Gatekeeper
+E. UMC
+F. Brana
+Odpoveédi SIP s cislem 5XX:
+A. znamenají přesměrování
+B. znamenají chybu na straně serveru *
+C. znamenají úspěch
+D. znamenají chybu na straně klienta
+SDP se neposila s metodou?
+A. OK
+B. INVITE
+C. ACK
+D. TRYING *
+SSRC u RTP identifikuje?
+A. zdroj vysílání multimediálního toku *
+B. pořadí paketů v multimediálním toku
+C. přispívající zdroj vysílání do multimediálního toku o vice účastnících
+D. Gas pro přehrávání multimediálního toku
+Broadcastova adresa:
+A. je 127.0.0.1
+B. data jsou vysílána vybrané skupině uživatelů
+C. umožní posilat pakety vybrané skupině uživatelů
+D. data jsou vysílána všemi směry *
+E. data jsou vysílána k cílové koncové stanici určené IP adresou
+F. je 255.255.255.0
+G. je 192.168.1.0
+Real-time Transport Protocol (RTP):
+A. slouží k přenosu dat informujicich o QoS sité
+B. slouží pro přenos souborů
+C. slouží pro automatickou konfiguraci počítačů připojených do sítě
+D. slouží pro přenos zpráv
+E. slouží k přenosu multimediálních dat *
+Sender Report je vysílán protokolem ?
+A. RTCP *
+B. SIP
+C. SAP
+D. RTP
+E. RTSP
+Kolik zpráv SIP proběhne během registrace mezi telefonem a proxy serverem?
+A. 4 zprávy
+B. 1 zpráva
+C. 2 zprávy
+D. 3 zprávy *
+Standardní hlavička protokolu RTP obsahuje?
+A. IP adresu cílové stanice
+B. sekvenční číslo paketu a CSRC identifikátor *
+C. TTL a kontrolní součet hlavičky
+D. IP adresu zdrojové stanice
+Socket je ?
+A. fyzická adresa + port
+B. IP adresa + port + maska sítě
+C. IP adresa + port *
+D. žádná odpověď není správná
+E. IP adresa + maska sítě
+Mějme dvoubodovou audiakonferenci dle standardu H.323. Kolik logických kanálů je během sestavení spojení otevřeno?
+A. 1
+B. 2 *
+C. 3
+D. 4
+E. 0
+Real Time Streaming Protocol (RTSP):
+A. slouží k označení paketů s malým zpožděním
+B. slouží pro přenos multimediálních dat
+C. slouží k ovládání multimediálního toku (např. pro video na vyžádání) *
+D. slouží ke kontrole zpoždění paketů
+Popis multimediálních dat m=u SDP má vždy tvar:
+A. m=medium protokol port formát
+B. m=medium port protokol formát *
+C. m=medium formát protokol port
+D. m=medium formát port protokol
+E. ani jedna není zprávná
+Informace SDP protokolu mohou být přenášeny v SIP Žádosti :
+A. BYE
+B. RINGING
+C. TRYING
+D. INVITE *
+E. CALL PROCEEDING
+V jakém formátu je soubor MPD?
+A. HTML (Hypertext Markup Language)
+B. JSON (JavaScript Object Notation)
+C. XML (Extensible Markup Language) *
+D. M3U (MP3 URL - Moving Picture Experts Group Audio Layer 3 Uniform Resource Locator)
+E. YAML (YAML Ain't Markup Language)
+Odpovědi SIP s číslem 2XX:
+A. znamenájí chybu na straně klienta
+B. neznamenají nic
+C. znamenájí chybu na straně serveru
+D. znamenájí kladné potvrzení *
+E. znamenájí pokyn k přesměrování
+F. jsou odpovědmi pouze na žádost INVITE
+Pro zrušení dialogu SIP slouží zpráva (ještě před sestavením spojení):
+A. CANCEL *
+B. GOOD-BYE
+C. BYE
+D. DESTROY
+E. BUY
+SSRC v RTP hlavičce:
+A. je přiřazeno klientovi vzdáleným serverem
+B. identifikuje zdroj vysílání *
+C. identifikuje přispívající zdroj v mixovaném RTP streamu
+D. slouží k časové synchronizaci streamu
+Vyberte správné tvrzení:
+A. Manifest MPEG-DASH je jeden soubor obsahující všechny informace o dostupných profilech *
+B. Manifest HLS je jeden soubor obsahující všechny informace o dostupných profilech
+C. Manifest HLS odkazuje na další soubory obsahující informace o daném profilu
+D. Manifest MPEG-DASH odkazuje na další soubory obsahující informace o daném profilu
+E. Playlist MPEG-DASH je jeden soubor obsahující všechny informace o dostupných profilech
+Který protokol neslouží k signalizaci?
+A. RTP *
+B. H.245
+C. SIP
+D. H.225
+Jakou informaci manifest (MPD) neobsahuje?
+A. časování
+B. zabezpečení
+C. rozlišení
+D. typ média
+E. URL adresu zdroje *
+O směrování se v TCP/IP stará vrstva:
+A. spojová
+B. transportní
+C. síťová *
+D. směrová
+E. žádná z uvedených
+Odpovědi SIP s číslem 3XX:
+A. znamenají chybu na straně serveru
+B. znamenají úspěch
+C. jsou odpovědi pouze na žádost REDIREČCT
+D. znamenají chybu na straně klienta
+E. znamenají přesměrování *
+SIP protokol je v modelu TCP/IP definován na vrstvě:
+A. Aplikační *
+B. Transportní
+C. Relační
+D. Síťové
+Co znamená zkratka MPD?
+A. Multimedia Protocol Description
+B. Media Protocol Description
+C. Media Presentation Demonstration
+D. Media Presentation Description *
+E. Multimedia Presentation Description
+Ověření schopnosti jednotlivých terminálů Terminal Capability Set proběhne:
+A. ihned po registraci terminálů ke gatekeeperu
+B. po vyjednání spojení a zprávě CONNECT *
+C. ihned po zprávě CALL PROCEEDING
+D. ihned po spojení dvou terminálů
+H.323 - při komunikaci terminálů s MCU jednotkou řídí komunikaci ?
+A. terminál, který inicioval spojení
+B. terminál nebo MCU jednotka v závislosti na vygenerovaném čísle ve zprávě MasterSlaveDetermination
+C. terminál v závislosti na vygenerovaném čísle ve zprávě MasterSlaveDetermination
+D. vždy MCU jednotka *
+Pro přenos HLS playlistu je využíván protokol?
+A. Využívá proprietární protokol
+B. HTTP/HTTPS *
+C. FTP
+D. NFS
+E. UDP
+Hlavička protokolu IPv4 (Viac správnych odpovedí)
+A. Môže obsahovať multicastovou adresu *
+B. Obsahuje cílovou adresu *
+C. Obsahuje informaci o životnosti paketu *
+D. Obsahuje informaci o typu médií
+E. Obsahuje informaci o portech
+Protokol SIP (Viac správnych)
+A. Tag volaného je vždy znám při odesíláni zprávy INVITE volajícim
+B. Pole Contact je povinnou součastí žádosti INVITE *
+C. Pole CALL ID se v rámci dialogu nemění *
+D. V doporučení SIP jsou definované kodeky, které mohou být při komunikaci použity.
+E. Informace o kodecích jsou nejčastěji přenášeny ve zprávě INVITE a v odpovědi 200 OK *
+F. K vyjednávání kodeků může být použit protokol SDP *
+G. Zpráva CANCEL posílá uživatel k ukončení probíhajícího dialogu
+H. Vyjednávání kodeků ke komunikaci probíhá až po navázání spojení
+I. Pole CSeq ve zprávě SIP slouží k synchronizaci přenášených médií
+J. Protokol SIP je protokolem transportní vrstvy
+TTL v protokolu IPv4 (Viac možností)
+A. Maximálna veľkosť 255 *
+B. Zníži sa o jedna pri prechode cez smerovač *
+C. Znamená Time To Live *
+D. Zvýši sa o jedna pri prechode cez smerovač
+E. Identifikuje typ služby
+F. Znamená Total Time Live
+Protokol SDP (Viac správnych)
+A. Je vždy sestaven z částí popisující relaci, čas a média *
+B. Slouží k popisu datového (multimediálního) toku *
+C. Obsahuje mimo jiné informace o IP adrese odesílatele *
+D. Povinná pole jsou pouze \"v, o, s, t, m\
+E. Slouží k přenosu multimediálních dat
+Pro registraci terminálu ke Gatekeeperu u H.323 se využívá port
+A. 1719 *
+B. 1720
+C. 8080
+D. 5060
+E. 8060
+U protokolu RTP
+A. Může nést více jak jeden datový tok, k rozlišení jednotlivých uživatelů využívá SSRC *
+B. Sequence number slouží k inter a intra media synchronizaci.
+C. Každý vyvinuty A/V kodek má svoje předem definovány identifikátor Payload Type, který je součástí RFC 2550.
+D. Pole SSRC je jednoznačný identifikátor, který je generován na straně serveru, ke kterému je uživatel připojen.
+U H.323 platí:
+A. Terminál při přihlašování se ke Gatekeeperu může být Gatekeeperem odmítnut *
+B. Při signalizaci řízené gatekeeperem jsou mezi Gatekeeperem a terminály vyměněny pouze H225 RAS, ostatní komunikace je přímo mezi terminály bez využití Gatekeeperu
+C. Při konfiguraci terminálu je zapotřebí vždy znát adresu Gatekeeperu
+D. Jednotka MCU obsahuje jedinou komponentu – Vícebodový procesor
+Vyberte správná tvrzení:
+A. YUV je formát 4:2:0 *
+B. Při kompresích obrazu využíváme nejčastěji model RGB, jehož složky jsou postupně kódovány bez transformace do jiného prostoru
+C. Minimální snímková frekvence pro plynulý pohyb ve videu je 55 snímků za sekundu
+D. Formát CIF má rozlišení 640x480 px
+E. Full HD rozlišení má poměr 1920x1200 px
+F. YUY je formát 4:2:2 *
+Vyberte platná tvrzení (adaptivní stream):
+A. Trvání segmentu je v HLS definováno značkou EXTINF *
+B. CDN se používá pouze při přenosu více streamů různé kvality stejného obsahu
+C. HLS nepřenáší Playlist
+D. HLS je vyvíjen a využíván produkty společnosti Microsoft
+E. MPEG-Dash je používán v digitální televizi DVB-T2
+Protokol SIP:
+A. DIALOG je identifikován pomocí Call ID, tagem volajícího a tagem volaného *
+B. DIALOG obsahuje minimálně 2 TRANSAKCE *
+C. TRANSAKCE je definována jako výměna jedné žádosti a jedné libovolné odpovědi
+D. TRANSAKCE obsahuje více dialogů
+E. Dvoubodové spojení je navázáno po výměně zpráv INVITE – 200 OK
+F. Pro popis spojení se používá protokol SAP
+G. DIALOG je identifikován pomocí CALL ID, tagem volajíciho a tagem volaného, sekvenčním číslem a parametrem via branch.
+H. Dvoubodové spojení je navázáno po výměně zpráv INVITE – 200 OK - ACK *
+JPEG
+A. Rozšířený mód může kódovat až 12b vzorky *
+B. Použitá transformace zajistí uspořádání dat tak, že v levém dolním rohu bloku je stejnoměrná složka
+C. Děli obraz na bloky o velikosti 16x16 pixelů
+D. Využívá 2D-DWT
+E. Kvantizace je hlavním zdrojem informace a řídíme s ní výslednou kvalitu obrazu *
+F. Použitá kvantizační tabulka je součástí komprimovaných dat *
+G. U progresivního kódování JPEG je přenášen postupně blok po bloku
+H. Pokud v bloku 8x8 po kvantizaci zůstane nenulová pouze složka DC, poté můžeme konstatovat, že výsledný obraz po dekompresi bude mít maximální kvalitu
+I. Blokový artefakt je kladnou stránkou komprese JPEG, díky němu je obrázek kvalitnější
+J. Jasová a chrominační složky jsou kódovány shodně a používají se pro ně stejné kvantizační tabulky
+Vyberte správná tvrzení:
+A. H.323 definuje ve své architektuře jednotku MCU *
+B. U H.323 můžu použít kodek pro kompresi videa MPEG-2
+C. SIP definuje ve své architektuře terminál
+D. Gatekeeper zajišťuje kompresi a dekompresi A/V dat
+E. Jednotka MCU musí být u dvoubodové multimediální komunikace součástí komunikačního řetězce
+Vyberte správná tvrzení
+A. Pro videokonference a telepresence se využívají standardy H.323 a SIP *
+B. Webcast poskytuje obousměrné komunikační prostředí
+C. Součástí H.323 je Proxy server
+D. Videokonference nemá žádné odlišnosti od telepresence, jedná se o synonyma
+E. Při webmináři můžu přenášet pouze zvuk a text
+Protokol RTSP (Real Time Streaming Protocol) (viac možností)
+A. Mezi povinné metody protokolu patří metoda TEARDOWN *
+B. Využívá port 554 *
+C. Přenáší signalizační data - jedná se o signalizační protokol *
+D. Přenáší multimediální data – A/V obsah
+E. Mezi nepovinné metody protokolu patří metoda PLAY
+U kvality zážitků QoE (Quality of Experience) platí tvrzení (viac možností)
+A. QoE můžeme měřit metodou ACR *
+B. QoE můžeme měřit metodou DCR *
+C. QoE můžeme měřit metodou PSNR *
+D. QoE je ovlivněna faktory: obsah, uživatel, prostředí, systém *
+E. U QoE měříme ztrátovost, propustnost a zpoždění paketů
+V síťovém modelu TCP/IP nenajdu vrstvu (viac možností)
+A. Spojovú
+B. Prezentačnú *
+C. Relačnú *
+D. Aplikačnú
+E. Sieťovú
+F. Transportnú
+Adaptivní streamovaní (viac možností)
+A. Přenáší se části videa (chunky), které jsou přehrávány v přehrávači - video se neukládá na lokální disk. *
+B. Umožňuje dynamicky měnit kvalitu videa podle kapacity sítě, procesoru apod. *
+C. Umožňuje zahájit přehrávání dříve, než je stažen celý obsah. *
+D. Pro adaptivní streaming se pužívá MPEG-DASH. *
+E. Obsah je nejprve stažen a uložen na lokálním úložišti, následně je přehrán.
+F. Pro adaptivní streaming se nepoužívá Apple HLS.
+G. Je také označováno jako MPEG-DASH založeno na medzinárodním standardu HTTP. *
+H. Pomocí enkóderu vytváří více verzí daného mědia v různych přenosových rychlostech. *
+I. Používa soubor manifest, který obsahuje informace o všech částech (chuncích) přenosu. *
+J. Využíva vždy RTSP protokol.
+Vyberte nesprávná tvrzení (viac možností):
+A. Zpoždění u A/V videokonference by nemělo přesáhnout 1500 ms, poté dochází ke zhoršení QoS *
+B. B2BUA u SIP protokolu je určený k přesměrování a používá odpovědi 301 *
+C. Videokonference nelze používat v cloudu *
+D. Při přenosu A/V dat při videokonferenci nesmí docházet k žádné ztrátě paketů nesoucí A/V obsah, jinak se hovor rozpadne *
+E. Focus je u H.323 určený k signalizaci během konference *
+U konference platí tvrzení (viac možností)
+A. Gatekeeper není součástí architektury SIP *
+B. MCU jednotka nastavuje mimo jiné rozvržení \"Layouty\" připojených uživatelů na displeji *
+C. Maximální počet připojených bodů do konference typu Voice Activated je vždy větší než u Continuous Presence při stejném vytížená hardware *
+D. Architektura H.323 může ke komunikaci a kompresi A/V dat použít libovolné protokoly
+E. U Teleprezenčních systémů je vždy použito jako koncové zařízení telefon
+U H.323 a SIP platí (viac možností)
+A. Před sestavením H.323 je mezi uživateli nejprve sestaveno TCP spojení *
+B. Při \"rychlém\" připojení u H.323 postačí výměna 3 zpráv mezi volajícím a volaným *
+C. Gatekeeper zajišťuje překlad H.323 ID na IP adresy terminálů *
+D. Před sestavením hovoru SIP je mezi uživateli nejprve sestaveno TCP spojení
+E. Gatekeeper obsluhuje 1 nebo více zón současně
+MPEG-DASH (viac možností)
+A. Přenášené médium je děleno do segmentů *
+B. MPD obsahuje jeden nebo více intervalů určitého programu *
+C. Každá perioda obsahuje adaptační množinu (AS) *
+D. Neumožňuje přepínat mezi streamy různé kvality
+E. Každý segment obsahuje minimálně pět přístupových bodů SAP
+Registrace SIP (viac možností)
+A. Při registraci s autentizací se v jedné ze zpráv posílá heslo k účtu SIP v čitelné podobě
+B. Při registraci s autentizací se využívá algoritmus MD5 *
+C. Při registraci s autentizací se v jedné ze zpráv posílá uživatelské jméno k účtu SIP v čitelné podobě *
+D. Při registraci s autentizací si dva koncové body mezi sebou vymění 3 zprávy *
+E. Registrace probíhá vždy přes B2BUA
+Protokol RTP (viac možností)
+A. Je protokol aplikační vrstvy TCP/IP modelu *
+B. Je protokol, který nese informaci o A/V kodeku přenášených dat *
+C. Je protokol, který umožní synchronizaci příchozích multimediálních dat (timestamp, seq numbers) *
+D. Je protokol pro přenos signalizačních informací mezi uživateli
+E. Je protokol transportní vrstvy TCP/IP modelu
+F. Definuje výpočet zpoždění a kolísání zpoždění u multimediálních přenosů *
+Multicast ASM (Any Source Multicast (viac možností)
+A. Nerozlišuje jednotlivé zdroje vysílání *
+B. Používá Rendezvous point *
+C. Ke směrování v síti může použít protokol PIM-DM *
+D. Ke směrování v síti může použít protokol PIM-SM *
+E. Rozlišuje jednotlivé zdrojové vysílání
+F. Nepoužívá Randezvous Point
+Protokol IGMP (viac možností)
+A. Verze 2 nelze použít v multicastu typu SSM *
+B. Slouží k připojení koncových stanic k multicastové skupině *
+C. Jedná se o směrovací protokol v multicastové skupině
+D. Ve verzi 3 se používá v multicastu typu ASM *
+Komprese videa (viac možností)
+A. Snímek B u MPEG-2 není referenční *
+B. Při použití GOP ve variantě \"IPPP\" je pořadí snímání jednotlivých snímků shodné s pořadím kódování *
+C. Chyba predikce je rozdíl mezi dvěma po sobě jdoucími snímky ve videosekvenci
+D. Pro odhad pohybu u kodéru MPEG-2 se využívají bloky
+E. Makroblok 4:2:0 obsahuje 4 bloky
+Vyberte správná tvrzení (viac možností)
+A. Model 4:2:0 obsahuje čtyři jasové a dva chrominační bloky *
+B. Barevná hloubka udává, kolik barevných odstínů je v daném obraze použito
+C. Barevná paleta stanovuje počet možných barevných odstínů *
+D. Y, Cb, Cr složky jsou stejně důležité a je s nimi v kompresních algoritmech zacházeno většinou stejně
+E. Při transformaci RGB na YCbCr nedochází k žádné ztrátě informace
+Kvalita služeb (QoS - Quality Of Service) (viac možností)
+A. IntServ zajišťuje garantovanou službu *
+B. Při použití architektury DiffServ nelze zaručit garantovanou službu *
+C. Při použití architektury DiffServ jsou nejprve mezi uživatelem a poskytovatelem dohodnuty parametry pro přenos SLA (Service Level Agreement) *
+D. Pro kategorizaci paketu u IntServ využívá kód DSCP
+E. Využívá u architektury DiffServ protokol RSVP
+F. Při použití architektury IntServ nelze zaručit garantovanou službu
+Protokol RTCP (viac možností)
+A. Přenáší zprávy Sender Report a Receiver Report *
+B. Slouží zejména k měření kvality služeb probíhajícího spojení *
+C. Je periodicky posílán mezi účastníky multimediálního spojení zajištěného protokolem RTP *
+D. Šířka pásma pro RTCP nesmí překročit 10 procent z celkové šířky pásma daného vysílání
+Čo znamená skratka IVR?
+A. Interactive Video Relay ~
+B. Internet Video Recording ~
+C. Interactive Voice Response - Interaktívna hlasová odozva (interaktívne hlasové menu) *
+D. Integrated Voice Router ~
+Na akej vrstve pracuje protokol IGMP?
+A. Sieťová *
+B. Transportná
+C. Aplikačná
+D. Fyzická
+E. Linková
+Pro transportní vrstvu modelu TCP/IP modelu platí tvrzení:
+A. UDP i TCP je možné použít pro broadcastový přenos
+B. V TCP i UDP se přenáší zdrojová i cílová IP adresa
+C. UDP protokol je nespolehlivý protokol *
+D. Při komunikaci prostřednictvím TCP je nejprve sestaveno spojení výměnou čtyřech zpráv mezi oběma účastníky dvoubodového spojení
+Vyberte správná tvrzení: (viac možností)
+A. Redukci redundance provedu kvantizací
+B. Redukci redundance provedu prediktivním kódováním *
+C. VLC kódování používané při kompresi obrazu a videa je ztrátové
+D. Redukce irelevance je ztrátový proces *
+E. Citlivost lidského oka je omezená na přibližně 34 odstínů šedé barvy
+Synchronní časový multiplex se vyznačuje:
+A. konstatní přenosovou rychlostí *
+B. dynamickým přidělováním šířky pásma
+C. proměnlivou délkou rámce
+D. proměnlivou délkou časového úseku
+Při použití analogového modemového připojení s přenosovou rychlostí 32kbps je čas potřebný ke stažení 1MB souboru:
+A. 4.25 min *
+B. 0.52 min
+C. 0.032 min
+D. 52 s
+Kódovací schémata používaná u systému GSM neovlivňují:
+A. počet datových bitů v timeslotu
+B. počet současně využitelných timeslotů *
+C. maximální přenosovou rychlost
+D. počet zabezpečovacích bitů v timeslotu
+Na datagramovou službu je charakteristická:
+A. proces vytváření spojení
+B. potvrzování příjmu paketů
+C. číslování paketů
+D. možnost ztráty vysílaných paketů *
+Hlavička IP protokolu neobsahuje:
+A. verzi použitého IP protokolu
+B. celkovou délku paketu
+C. zdrojový aplikační port *
+D. dobu života paketu
+Na protokol RTCP se nevztahuje
+A. je řídícím a monitorovacím prostředkem přenosu pro RTP
+B. přenáší statistické informace o toklu RTP
+C. rozlišuje čtyři druhy zpráv (SR, RR, SD, BM)
+D. zprávy jsou posílány na vyžádání *
+Při centralizované vícebodové konferenci probíhá zpracování audiovizuálních dat:
+A. v terminálech
+B. ve vícebodové jednotce (MCU) *
+C. ve vícebodovém procesoru
+D. v gatekeeperu
+Mezi druhy volání v síti H.323 nepatří:
+A. dvoubodové
+B. centralizované
+C. přímé
+D. explicitní *
+Mezi funkce gatekeeperu v síti H.323 nepatří:
+A. řízení přístupu
+B. zajištění kvality služby *
+C. převod adres
+D. správa šířky pásma
+Kolik barev je možné vyjádřit třemi barevnými komponentami RGB, pokud první používá 5, druhá 6 a třetí opět 5 bitů k reprezentaci jasu barvy?
+A. 65536 *
+B. 150
+C. 149
+D. 2^(5*6*5)
+Standard ITU H.263 je standardem pro:
+A. kódování videa *
+B. kódování audia
+C. přenos audiovizuálních dat
+D. přenos audiovizuálních dat v reálném čase
+B snímky jsou:
+A. prediktivně kódovány
+B. residuálně kódovány
+C. kódovány obousměrnou predikcí *
+D. přijímány přijímačem
+Cílem transformačního kódování při kompresi dat je:
+A. získání koeficientů s rovnoměrným rozložením hodnot
+B. získání koeficientů s výrazným nerovnoměrným rozložením hodnot *
+C. získání koeficientů, které jsou vzájemně korelované
+D. získání koeficientů, které nejsou vzájemně korelované *
+Koncentrace čípků na oční sítnici je největší:
+A. na perifériích
+B. ve žluté skvrně *
+C. v bezprostředním okolí výstupu očního nervu
+D. v místě slepé skvrny
+V základním módu komprese JPEG se na kvantované hodnoty dále aplikuje:
+A. kódování DPCM
+B. transformační kódování
+C. Huffmanovo kódování (VLC) *
+D. kódování LZW
+Maskování zvukového signálu znamená:
+A. Vyloučení zbytečných vzorků ze signálu
+B. dynamické kvantování signálu podle povoleného kvantizačního šumu
+C. potlačení slyšitelnosti zvukového signálu podnětem silnějším *
+D. zničení obálky signálu
+Na kompresi podle standardu MP3 není charakteristické:
+A. zjišťování tónových a netónových úseků zvukového signálu
+B. lineární kvantizace vzorků *
+C. analýza FFT
+D. rozklad bankou filtrů
+Která transformace se používá v MPEG-Audio:
+A. DFT
+B. DST
+C. DCT *
+D. Fourierova transformace
+Který z následujících standardů pracuje s objektovou reprezentací scény?
+A. MPEG-1
+B. MPEG-2
+C. MPEG-4 *
+D. MPEG-7
+Konstantní bitová rychlost při kódování MPEG se dosahuje:
+A. změnou váhového koeficientu kvantizační tabulky
+B. pře- a podvzorkováním signálu
+C. adaptavním filtrem
+D. vstupním vyrovnávacím bufferem *
+Vysoká chybovost přenosového kanálu se na přehrávání MPEG kódovaného videa projeví:
+A. sněžením
+B. výpadkem snímků
+C. kostkováním *
+D. trhavým pohybem
+Systém veřejného vodoznačení:
+A. extrahuje vodoznak bez znalosti originálních dat *
+B. detekuje vodoznak bez znalosti originálních dat
+C. extrahuje vodoznak na základě znalosti originálních dat
+D. detekuje vodoznak na základě znalostí originálních dat
+Modul Mellin-Fourierovy transformace obrazového signálu není invariantní vůči:
+A. rotaci obrazu
+B. posuvu obrazu
+C. zvětšení obrazu
+D. filtraci obrazu *
+Pro ověření originality multimediálních dat se používají techniky:
+A. symetrického šifrování
+B. kombinace privátního a veřejného šifrování
+C. asymetrického šifrování *
+D. privátní šifrování
+Hlavou jsou zvukové vlny rozptýleny na frekvencích:
+A. pod 50 Hz
+B. do 1 kHz
+C. nad 1 kHz *
+D. pouze nad 20 kHz
+Veličina ITD (vnitroušní časová diference) pomáhá k rozeznání umístění zvukového zdroje ve směru:
+A. azimutálním *
+B. elevančním
+C. radiálním
+D. pravoúhlým
+Mezi příznaky získané z časové reprezentace zvukového signálu nepatří:
+A. průměrná energie
+B. počet průchodů nulou
+C. periodicita *
+D. poměr ticha
+Spektrální centroid je:
+A. speciální geometrický tvar spektra
+B. středový bod spektra *
+C. tvar spektrální obálky
+D. centrální zrcadlení spektra
+Charakteristickou vlastností řečového signálu je:
+A. nízký poměr ticha
+B. frekvenční šířka pásma od 16Hz do 20 kHz
+C. nižší variace počtu průchodů nulou
+D. dominantní obsah nízkofrekvenčních komponentů *
+Vytvoření transportního spojení protokolem TCP vyžaduje přenos:
+A. jednoho paketu
+B. dvou paketů
+C. tří paketů *
+D. čtyř paketů
+E. šesti paketů
+Řídící kanál při vícebodové videokonferenci je vytvářen:
+A. Mezi gatekeeperem a bránou ~
+B. Mezi gatekeeperem a vícebodovou jednotkou ~
+C. Mezi bránou a koncovým zařízením ~
+D. Mezi vícebodovou jednotkou a účastníky konference *
+Při kompresi snímků obrazové sekvence ve tvaru I B B P B B P bude probíhat dekomprese v pořadí:
+A. I B B P B B P
+B. I P P B B B B
+C. I B P B B P B
+D. ? I P B B P B B *
+E. P B B I P B B
+F. Ani jedno z uvedených pořadí není správné
+Multicastové adresy patří do následující třídy IP adres:
+A. A ~
+B. D *
+C. C ~
+D. B ~
+Garance kvality služeb nezahrnuje:
+A. Omezení kolísání zpoždění (jitteru) ~
+B. Garanci minimální propustnosti ~
+C. Spolehlivé doručování dat *
+D. Garanci maximálního zpoždění ~
+Náhodný přístup k mediálním tokům komprimovaným standardy MPEG umožňuje:
+A. B snímky ~
+B. I snímky *
+C. P snímky ~
+D. Všechny snímky stejně ~
+Počet vzorků jednoho rámce u MPEG 1 audio Layer1 je:
+A. 576 ~
+B. 1152 ~
+C. 384 *
+D. 192 ~
+Slice vrstva neobsahuje:
+A. Posloupnost makrobloků ~
+B. Informaci o kvantizaci ~
+C. Hlavičku vrstvy slice ~
+D. Žádné snímky *
+Transport Stream u MPEG-2 je tvořen:
+A. Samostatné snímky bez multiplexu ~
+B. Pakety konstantní délky se zabezpečením FEC *
+C. Pakety o délce 1500 B s kontrolním součtem CRC ~
+D. Pakety proměnné délky bez zabezpečení ~
+HDTV má prostorové rozlišení:
+A. 720x576 ~
+B. 352x288 ~
+C. 1920x1152 *
+D. 640x480 ~
+CSMA/CD je:
+A. Přístup na médium s předcházením kolize ~
+B. Přístup na médium s pevně přidělenými časovými sloty ~
+C. Přístup na médium s předáváním pověření (token) ~
+D. Přístup na médium s detekcí kolize *
+Datagram UDP nezahrnuje:
+A. Kontrolní součet ~
+B. IP adresu zdroje *
+C. Zdrojový port ~
+D. Délku datagramu ~
+Jeden makroblok při formátu YUV 4:2:0 obsahuje:
+A. 4Y+4U+4V ~
+B. 4Y+2U+2V ~
+C. 2Y+U+V ~
+D. 4Y+U+V *
+U sekvenčního módu JPEG je obraz:
+A. Vykreslen po jednotlivých snímcích sekvence ~
+B. Vykreslen v pořadí náhodných bloků ~
+C. Vykreslen postupně blok po bloku *
+D. Nejprve vykreslen v hrubém náhledu a postupně zpřesňován ~
+1 frame u H.261 při prostorovém rozlišení CIF obsahuje:
+A. 99 makrobloků ~
+B. 1584 makrobloků ~
+C. 396 makrobloků *
+D. 198 makrobloků ~
+Blokový artefakt při kompresi DCT vzniká v důsledku:
+A. Použití Huffmanova kódování ~
+B. Šumu při snímání obrazu ~
+C. Převodu RGB na YCbCr ~
+D. Rozdělení do bloků a kvantování koeficientů *
+Jitter je:
+A. Povolená časová odchylka při doručení dat k cíli *
+B. Průměrné zpoždění paketu v síti ~
+C. Podíl ztracených paketů ~
+D. Maximální přenosová rychlost spojení ~
+U systémů s Best-Effort:
+A. Není garantovaná QoS *
+B. Jsou prostředky rezervovány pomocí RSVP ~
+C. Je garantováno maximální zpoždění ~
+D. Je garantována minimální propustnost ~
+Při vyčerpání všech tokenů u řízení provozu Token bucket jsou:
+A. Vysílání se pozastaví a pakety se ukládají neomezeně ~
+B. Při naplnění bufferu jsou pakety vyřazeny, nebo poslány jako best effort *
+C. Pakety jsou vždy okamžitě zrušeny bez ohledu na buffer ~
+D. Pakety jsou odeslány s nejvyšší prioritou ~
+Obsahově založené techniky vyhledávání zvuku fungují pouze při:
+A. Změně formátu kódování zvuku ~
+B. Stejném vzorkovacím kmitočtu a počtu bitů pro vyjádření vzorků *
+C. Použití adaptivních algoritmů pro různé vzorkovací frekvence ~
+D. Různém vzorkovacím kmitočtu a počtu bitů ~
+Vícestupňová klasifikace zvukových signálů vyžaduje:
+A. Pouze časové příznaky ~
+B. Je založená na analýze foném
+C. Jedno společné vyhodnocení všech příznaků najednou ~
+D. Správné pořadí vyhodnocování příznaků *
+Klasifikace zvukových signálů příznakovým vektorem pracuje na základě:
+A. Vyhodnocení euklidovské vzdálenosti příznaků *
+B. Přímého porovnání vzorků v časové oblasti ~
+C. Vyhodnocení Hammingovy vzdálenosti bitů vzorků ~
+D. Počtu průchodů nulou celého signálu ~
+Z Kerchhofova principu vyplývá:
+A. Utajení vodoznakovacího algoritmu ~
+B. Volba domény pro vodoznačení (s vysokou pravděpodobností) *
+C. Použití vždy veřejného klíče pro detekci ~
+D. Vložení vodoznaku do nejméně významných bitů ~
+Blokový artefakt vzniká v důsledku:
+A. příliš nízkého vzorkovacího kmitočtu zvuku ~
+B. nutnost náhodného výběru pozic obsahující vodoznak
+C. vícenásobné aplikace Huffmanova kódování ~
+D. rozdělení do bloků a kvantování koeficientů (pozn. vyhodím vyšší frekvence – bloky nenavazují) *
+Pro kompresi MP3 (MPEG1 Audio Layer 3) není charakteristické:
+A. použití filtru s frekvenčním přenosem
+B. lineární kvantizace vzorků *
+C. použití MDCT transformace ~
+D. psychoakustické modelování
+U síťové technologie Ethernet dochází k:
+A. detekci kolizí při přístupu *
+B. ke sdílení síťových prostředků *
+C. předcházení kolizím pomocí prioritního přístupu
+D. předávání pověření (tokenu) mezi stanicemi ~
+Centrální stanice MSAU je u technologie Token-Ring nutná v případě:
+A. kódování dat Manchesterovým kódem ~
+B. vytvoření primárního okruhu *
+C. zvýšení přenosové rychlosti
+D. vytvoření sekundárního okruhu
+U kterého obrazového formátu je uvedeno správné prostorové rozlišení:
+A. SIF, 352x288 *
+B. CIF, 320x240
+C. QCIF, 352x288 ~
+D. QCIF, 176x120
+Na světlocitlivé tyčinky není charakteristické:
+A. vytváření barevného vjemu *
+B. citlivost na nízké úrovně světla
+C. schopnost rozpoznat vysoké detaily *
+D. citlivost za nízké úrovně osvětlení ~
+Práh slyšitelnosti je nejnižší ve frekvenčním rozsahu:
+A. 10 – 20 kHz
+B. 100 – 500 Hz
+C. 20 – 100 Hz ~
+D. 2 – 5 kHz *
+Na potlačení časové redundance se používá technika:
+A. diferenciální kódování
+B. kompenzace pohybu *
+C. predikční modelování
+D. Huffmanovo kódování ~
+Která transformace se používá v současných video kompresních standardech?
+A. Mellin-Fourierova transformace ~
+B. DFT
+C. FFT
+D. DCT *
+Makroblok MPEG se skládá z:
+A. 4 bloků pixelů *
+B. 1 bloku pixelů
+C. 16 bloků pixelů
+D. 2 bloků pixelů ~
+MPEG-4 pro kódování obrazových objektů nepoužívá:
+A. kompenzaci pohybu ~
+B. diskrétní kosinovou transformaci
+C. diskrétní Fourierovu transformaci *
+D. Huffmanovo kódování ~
+Při šíření zvukových vln dochází:
+A. k rozptylu pouze na malých objektech
+B. k šíření pouze v přímém směru bez odrazů ~
+C. k rozptylu na objektech s rozměry většími než je vlnová délka zvukové vlny *
+D. k absorpci pouze na hladkých površích
+Pro HRTF platí, že:
+A. je transformací zdrojového signálu na čistě časovou doménu
+B. je výpočtem prostorového modelu na základě zvukových vln
+C. je konvolucí zdrojového signálu s impulsní odezvou prostředí *
+D. je filtrací signálu pouze dolní propustí ~
+Obsahově založené techniky vyhledávání zvuku založené na srovnání vzorků fungují pouze při:
+A. použití adaptivních algoritmů pro různé vzorkovací frekvence
+B. použití adaptivního kvantování ~
+C. stejném vzorkovacím kmitočtu a počtu bitů pro vyjádření vzorků *
+D. změně parametrů frekvenčního rozsahu
+SDP je:
+A. Textový jazyk pro popis multimediálních spojení *
+B. Signalizační protokol pro řízení přenosu dat protokolem RTP
+C. Protokol poskytující informace o aplikaci týkající se kvality vysílaných dat
+D. Protokol starající se o synchronizaci samostatně vysílaných audio a video toků
+E. Ani jedna z uvedených možností
+Počet bitů pro stanovení typu zátěže u RTP paketu je:
+A. 6 bitů
+B. 7 bitů *
+C. 8 bitů
+D. 16 bitů
+E. 32 bitů
+Výsledky žádostí u SIP protokolu jsou vyjadřovány:
+A. dvouciferným číslem
+B. trojciferným číslem *
+C. textovými zprávami
+D. binárními zprávami
+V MPEG 1 audio se po rozdělení rámce do jednotlivých pásem vyskytuje v každém pásmu:
+A. 6 vzorků
+B. 8 vzorků
+C. 10 vzorků
+D. 12 vzorků *
+E. 384 vzorků
+Prostorové rozlišení 4CIF je:
+A. 176x144
+B. 128x96
+C. 1408x1152
+D. 704x576 *
+E. 352x288
+Při kompresi videa pomocí H.261 obsahuje jeden snímek s prostorovým rozlišením QCIF:
+A. 1 GOB
+B. 3 GOB *
+C. 6 GOB
+D. 8 GOB
+E. 12 GOB
+U CELP:
+A. Je přenášena kódová kniha
+B. Jsou přenášeny odkazy na kódovou knihu
+C. Je přenášena kódová kniha společně s odkazy na ni
+D. Je kódová kniha pouze součástí kodéru
+E. Jsou přenášena data obsahující komprimovaný zvuk + parametry znělost/neznělost hlásky, periodu základního tónu hlasu, velikost úrovně signálu a parametry filtru modelující hlasový trakt *
+Povinné komponenty H.323 jsou:
+A. Koncové zařízení a gatekeeper
+B. Koncové zařízení, gatekeeper a MCU
+C. Koncové zařízení, gatekeeper, brána a MCU
+D. Koncové zařízení *
+U Hard-deadline při porušení maximální doby pro dokončení operací:
+A. Výsledek již nemá význam *
+B. Výsledek má částečný význam
+C. Výsledek má význam, pokud se jedná o porušení do 1 sekundy
+D. Výsledek má plný význam
+U kterého obrazového formátu je uvedeno správné prostorové rozlišení?
+A. ITU601, 775x578
+B. CIF, 352x288 *
+C. QCIF, 176x144 *
+D. VGA, 620x380
+Blokový artefakt vzniká u:
+A. komprese JPEG2000
+B. komprese G.711
+C. komprese JPEG *
+D. komprese RLE
+E. komprese VLC
+Který typ snímku se vyznačuje nejvyšší kompresí?
+A. B snímek *
+B. I snímek
+C. H snímek
+D. P snímek
+E. D snímek
+Pro účely potvrzování pravosti digitálních dat se používají:
+A. viditelné vodoznaky
+B. digitální podpisy *
+C. neviditelné vodoznaky
+D. vodoznaky bitového toku
+E. patchworkův algoritmus
+Proces rezervace prostředků u RSVP je:
+A. Periodicky opakován *
+B. Neopakován
+C. Opakován náhodně
+D. Opakován v pevně daném intervalu stanoveným standardem na 1 minut
+H.263 podporuje při vyhledávání vektoru pohybu:
+A. Půlpixelovou přesnost *
+B. Čtvrtpixelovou přesnost
+C. Pixelovou přesnost
+D. Dvoupixelovou přesnost
+E. Čtyřpixelovou přesnost
+Počet bitů v jednom rámci u MPEG-1 je:
+A. Nelze předem určit *
+B. Je vždy 100 bitů
+C. Je vždy 300 bitů
+D. Je vždy 384 bitů
+E. Je vždy mezi 374 a 384 bity
+Protokol H.225 RAS slouží u H.323 k:
+A. Výměně informačních zpráv
+B. K navazování spojení
+C. K přenosu zpráv pro vyzvánění
+D. Pro registraci a zahájení komunikace *
+JPEG 2000 využívá pro snížení bitového toku:
+A. DWT *
+B. DFT
+C. DCT
+D. Kvantizaci
+Protokol RTP k rekonstrukci správného pořadí paketů používá:
+A. Časová razítka
+B. Typ zátěže
+C. Identifikátor zdroje synchronizace
+D. Sekvenční čísla *
+Přímé volání v síti H.323 znamená:
+A. Vytvoření kanálu pro signalizaci a správu volání mezi terminály *
+B. Existenci řídicího kanálu mezi gatekeeperem a terminály
+C. Vytvoření dvoubodového spojení
+D. Přenos audiovizuálních dat přes gatekeeper
+Standard MPEG-Audio ke kompresi využívá:
+A. Modelování zdroje zvukového signálu
+B. Psychoakustické modelování *
+C. Výpočet LPC koeficientů
+D. Modelování řečového traktu
+Zvuková vlna je vlněním:
+A. Mechanickým *
+B. Elektro-mechanickým
+C. Elektro-magnetickým
+D. Gravitačním
+Hlavička sequence layer u komprese videa MPEG:
+A. Se opakuje periodicky *
+B. Se opakuje neperiodicky
+C. Se vyskytuje pouze jednou v celé sekvenci
+D. Určuje typ snímků I, P, B
+E. Se opakuje každých 5 ms
+CSMA/CA je:
+A. Přístup na médium s předcházením kolize *
+B. Přístup na médium s detekcí kolize
+C. Přístup na médium s předcházením kolize a kladným potvrzováním *
+D. Přístup na médium s vyvoláním kolize
+Slice u MPEG 2:
+A. Není omezen
+B. Je omezen na maximální velikost jednoho snímku
+C. Je omezen na maximální velikost jednoho řádku *
+D. Je omezen na maximální velikost 10ti makrobloků
+H.261 podporuje:
+A. Prokládané řádkování
+B. CBR i VBR
+C. Pouze CBR *
+D. Zpracování obrazu v rozlišení 352x268
+E. Žádné z uvedených
+Správné chronologické pořadí akcí při komunikaci s gatekeeperem je uvedeno v bodě:
+A. Přístupový proces, stanovení specifických vlastností KZ, přenos multimediálních dat *
+B. Nalezení gatekeeperu, vytvoření logických kanálů, přístupový proces
+C. Přístupový proces, registrace koncového zařízení, ukončení spojení
+D. Stanovení specifických vlastností KZ, přístupový proces, přenos multimediálních dat
+Pro Patchworkův algoritmus neplatí:
+A. Vkládá jednobitovou informaci do hostitelských dat
+B. Výrazně ovlivňuje originální hodnoty pixelů *
+C. Používá tajný klíč k inicializaci pseudonáhodného generátoru
+D. Používá páry pixelů
+Pro určení maskovacích prahů se u MPEG-1 audio layer 2 vybere pro každé pásmo maximálně:
+A. 1 vzorek *
+B. 2 vzorky
+C. 3 vzorky
+D. 4 vzorky
+E. Počet vzorků v závislosti na signálu
+Jeden makroblok při formátu YUV 4:2:2 obsahuje:
+A. 4Y+U+V
+B. 4Y+2U
+C. 4Y+2U+1V
+D. 4Y+2U+2V *
+E. 4Y+2U+0V
+Maximální přenosová rychlost u H.261 je:
+A. 2,5 Mbit/s
+B. 1,92 Mbit/s *
+C. 64 kbit/s
+D. 256 kbit/s
+E. Není omezena
+HVS je zkratka pro:
+A. Human video system
+B. Home video standard
+C. Human and video standard
+D. Human visual system *
+Lidské oko je nejvíce citlivé na:
+A. Vysokofrekvenční složky obrazu
+B. Nízkofrekvenční složky obrazu *
+C. Středofrekvenční složky obrazu
+D. Všechny frekvence stejně
+E. Vysokofrekvenční a nízkofrekvenční složky obrazu
+Co není v IP paketu?
+A. zdrojový port aplikace *
+B. zdrojová adresa
+C. cílová adresa
+D. TTL
+Co není v UDP paketu?
+A. zdrojový port
+B. kontrolní součet
+C. sekvenční číslo *
+D. délka dat
+Co není v TCP paketu?
+A. zdrojová adresa *
+B. sekvenční číslo
+C. kontrolní součet
+D. data
+Jak pracuje RTSP?
+A. intserv *
+B. diffserv
+C. buď intserv nebo diffserv
+D. pouze diffserv
+Co je zpráva v membership report v IGMP?
+A. odhlášení koncové stanice
+B. přihlášení koncové stanice *
+C. změna multicast adresy
+D. potvrzení datového příjmu
+Na jaké vrstvě probíhá směrování?
+A. fyzická
+B. síťová *
+C. transportní
+D. aplikační
+Co určuje TTL?
+A. čas přenosu paketu
+B. počet skoků na směrovačích *
+C. délku dat
+D. počet adres v seznamu
+Maximální počet skoků u RIP?
+A. 15 *
+B. 16
+C. 31
+D. 255
+Jakou verzi protokolu potřebuje SSM?
+A. IGMPv1
+B. IGMPv2
+C. IGMPv3 *
+D. všechny verze IGMP
+Jaká je adresa broadcastu?
+A. 255.255.255.0
+B. 0.0.0.0
+C. 255.255.255.255 *
+D. 192.168.1.255
+Do jaké skupiny protokolů patří SSM?
+A. dense mode
+B. sparse mode *
+C. hybrid mode
+D. peer-to-peer mode
+Kolik gatekeeperů může být v síti?
+A. 1
+B. 2
+C. 10
+D. libovolný počet *
+Co znamená zpráva 3xx u SIP?
+A. chyba
+B. přesměrování *
+C. autentizace
+D. připojení
+Přesnost H.263?
+A. půlpixelová přesnost *
+B. čtvrtpixelová přesnost
+C. pixelová přesnost
+D. subpixelová přesnost
+Co je zpráva PATH u RSVP?
+A. Zpráva o přijetí dat
+B. Zrušení rezervace
+C. Rezervace prostředků + obsahuje informace o charakteru dat a záznam cesty *
+D. Žádost o odhlášení z multicastové skupiny ~
+Délka hlavičky u TCP?
+A. 12B
+B. 16B
+C. 20B *
+D. 24B
+Co znamená zpráva IGMP1 – membership report?
+A. odhlášení koncové stanice
+B. přihlášení koncové stanice *
+C. změna multicast skupiny
+D. potvrzení přenosu dat
+MPEG-2:
+A. podporuje objektové rozdělení scény
+B. nepodporuje objektové rozdělení scény *
+C. používá bloky 4x4
+D. nepodporuje vysoké rozlišení
+PIM – SSM?
+A. specific source multicast *
+B. any-source multicast
+C. point-to-multipoint
+D. dense mode
+ASM?
+A. vyžaduje IGMPv3 ~
+B. pouze zdrojově specifické stromy (S,G) ~
+C. nepoužívá žádný směrovací protokol ~
+D. rendezvous point *
+JPEG?
+A. 4x4 bitů
+B. 8x8 bitů *
+C. 16x16 bitů
+D. 32x32 bitů
+Multicast adresa začíná?
+A. 1110 *
+B. 0001
+C. 1010
+D. 1101
+Vyber správné odpovědi:
+A. DIALOG je identifikován pomocí Call ID, tagem volajícího a tagem volaného *
+B. DIALOG obsahuje minimálně 2 TRANSAKCE *
+C. SIP využívá primárně port 554
+D. SIP slouží k přenosu multimediálních dat
+E. DIALOG je identifikován pomocí CALL ID, tagem volajícího a tagem volaného, sekvenčním číslem, parametrem via-branch
+Vyberte správna tvrzení
+A. Pokud disponuji znalostmi z multimediálniho odvétví mohu sa účastnit průzkumu ohledne QoE (Quality of Experience)
+B. U protokolu VoIP je nutné zajistit QoE (Quality of Experience) na stupni 4 a výše.
+C. HW komponenty terminálu u H.323 může býť ovládač, kodek slučujúci signály zařízení, mikrofon a kamera. *
+D. Telepresence navozuje zůčastneným pocit, že sedí v jedné místnosti u kulatého stolu. *
+E. U protokolu VoIP je nutné zajistit odpovídajíci QoS (Quality of Service). *
+Protokol SIP má následující vlastnosti:
+A. Pokud žádost INVITE obsahovala popis relace protokolem SDP, odpověď je přenášená pomocí ACK.
+B. Primární funkce metody je vyvolána žádosti na serveru. *
+C. Dialog popisuje celý pruběh komunikace dvou a více UA. *
+D. Protokol SIP zavádi pojmy terminál a server.
+Co v JavaScriptu znamená, že funkce je označena klíčovým slovem async?
+A. Funkce běží v samostatném vlákně.
+B. Funkce se spustí až po načtení stránky.
+C. Funkce vždy vrací Promise. Výsledek není k dispozici okamžitě. *
+Jaký je rozdíl mezi selektory .menu a #menu?
+A. První vybírá třídu, druhý ID. *
+B. Oba vybírají element podle ID.
+C. První vybírá HTML element, druhý atribut.
+Co vybere CSS selektor div p?
+A. Pouze přímé potomky div.
+B. Pouze první element p uvnitř div.
+C. Všechny elementy p uvnitř div, včetně vnořených potomků. *
+Vytvoření několika kvalitativních variant, například 360p, 480p a 720p, vyžaduje překódování vstupního videa. (Pravda/Nepravda)
+A. Pravda *
+B. Nepravda
+K čemu slouží CORS při přehrávání HLS nebo MPEG-DASH v prohlížeči?
+A. K volbě video kodeku
+B. K řízení bitrate enkodéru
+C. K vytvoření kvalitativních variant
+D. K povolení přístupu k multimediálním zdrojům z jiného originu. *
+Podle čeho klientský přehrávač při adaptivním streamování vybírá vhodnou variantu videa?
+A. Pouze podle rozlišení monitoru
+B. Podle délky názvu streamu
+C. Podle IP adresy multimediálního serveru
+D. Podle dostupné přenosové kapacity a stavu vyrovnávací paměti *
+Které soubory nebo struktury jsou součástí HLS streamu? (více odpovědí)
+A. Playlisty jednotlivých variant *
+B. Mediální segmenty obsahující video a audio *
+C. SIP signalizační zprávy
+D. Playlist popisující dostupné varianty *
+Které tvrzení o SRT je správné?
+A. SRT je určen pouze pro přenos souborů
+B. SRT je založen na TCP
+C. SRT lze použít pouze společně s kodekem H.264
+D. SRT pracuje nad UDP a umožňuje opakovaný přenos ztracených paketů *
+Jakou funkci má enkodér při živém streamování?
+A. Pouze zobrazuje přijaté video
+B. Získává multimediální data, kóduje je a připravuje je pro přenos *
+C. Pouze přenáší IP pakety mezi dvěma sítěmi
+D. Převádí UDP na TCP
+K čemu slouží Studiový mód v OBS?
+A. K automatickému nahrávání
+B. K nastavení bitrate videa
+C. K hardwarovému dekódování
+D. K současnému zobrazení Náhledu a Programu a přípravě scény před jejím odvysíláním *
+Co je streamovací klíč v kontextu protokolu RTMP?
+A. Jde o část URL reprezentující název konkrétního média. Využívá se jeho neveřejnost pro zajištění omezení publikování. *
+B. Jde o text, který se zobrazí ve vysílaném videu.
+C. Jde o šifrovací klíč, kterým se pomocí algoritmu AES šifrují jednotlivé zasílané segmenty.
+K čemu se používá konfigurační direktiva push?
+A. Přesměrování diváků, jejichž rychlost připojení nesplňuje kvalitu streamu, na alternativní, méně kvalitní stream.
+B. K zaslání push notifikací na mobilní telefony diváků v momentě, kdy streamer zahájí živé vysílání.
+C. K automatickému přeposílání (přesměrování) příchozího streamu do jiné aplikace v rámci RTMP serveru, na jiný mediální server nebo RTMP adresu (např. YouTube Live). *
+Co přesně znamená, když webový prohlížeč od serveru obdrží HTTP stavový kód 404 Not Found?
+A. Požadovaná stránka nebo soubor na serveru vůbec neexistuje (např. kvůli chybě v URL adrese). *
+B. Server je momentálně přetížený nebo probíhá jeho údržba, takže se k němu nedá připojit.
+C. Webová stránka byla úspěšně nalezena, ale uživatel nemá dostatečná oprávnění (heslo) pro její zobrazení nebo chybí startovací soubor (např. index.html)
+K čemu lze v přehrávači Video.js využít metody videoWidth() a videoHeight()?
+A. Ke zjištění aktuálního rozlišení přehrávaného videa *
+B. K nastavení přenosové rychlosti jednotlivých HLS variant
+C. Ke zjištění velikosti HLS segmentu v bajtech
+D. Ke změně rychlosti síťového připojení
+Která tvrzení o šifrování HLS pomocí AES-128 jsou správná? (více odpovědí)
+A. Direktiva hls_key_url určuje URL klíče, která bude uvedena v HLS playlistu. *
+B. Šifrovací klíč musí být uložen přímo ve veřejném adresáři webového serveru.
+C. Tag #EXT-X-KEY obsahuje informace potřebné pro získání klíče a dešifrování segmentů. *
+D. Direktiva hls_key_path určuje umístění souborů s klíči na serveru. *
+Jak má autentizační služba reagovat na požadavek na HLS šifrovací klíč, pokud uživatel nemá platnou session?
+A. Vrátit klíč ve formátu JSON
+B. Vrátit 401 Unauthorized a klíč nevydat *
+C. Vrátit klíč, ale požadavek nezapsat do logu
+D. Automaticky vytvořit uživateli novou session
+Co vrací metoda navigator.mediaDevices.getUserMedia() po úspěšném udělení oprávnění?
+A. Objekt MediaStream obsahující požadované mediální stopy *
+B. Objekt RTCPeerConnection připravený k navázání spojení
+C. Pole jednotlivých snímků z webové kamery
+D. Objekt CanvasRenderingContext2D
+Která tvrzení o zpracování videa v této úloze jsou správná? (více odpovědí)
+A. getImageData() umožňuje přístup k jednotlivým RGBA hodnotám pixelů. *
+B. drawImage() lze použít k vykreslení aktuálního snímku videa do canvasu. *
+C. putImageData() slouží k navázání WebRTC spojení mezi dvěma klienty.
+D. Face-api může analyzovat obraz z video elementu a vrátit informace o detekovaných obličejích a výrazech. *
+Jakou úlohu má signalizační server při navazování WebRTC spojení?
+A. Zajišťuje výměnu informací potřebných k navázání spojení, například popisu relace a ICE kandidátů *
+B. Převádí video stream do formátu HLS
+C. Přenáší veškeré audio a video mezi klienty po celou dobu hovoru
+D. Nahrazuje objekt RTCPeerConnection v prohlížeči
